@@ -13,7 +13,7 @@
 title: Black Ochre Data Labs
 
 # Your name to show in the footer
-author: Holly Martin
+author: Black Ochre Data Labs
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://black-ochre-data-labs.github.io"
+# url-pretty: "https://black-ochre-data-labs.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -134,7 +134,7 @@ text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#789c7c"
-footer-text-col: "#777777"
+footer-text-col: "#404040"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
