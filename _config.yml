@@ -50,8 +50,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "holly.martin@telethonkids.org.au"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
   github: black-ochre-data-labs
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -79,7 +79,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -88,7 +88,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
