@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About the Group
+title: About Us
 ---
+
+Acknowledgement of Country (multiple)
 
 Description of group purpose/mission/values/overview
