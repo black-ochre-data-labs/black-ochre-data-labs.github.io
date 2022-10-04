@@ -23,9 +23,8 @@ navbar-links:
   About: "about"
   Our Team: "our-team"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://github.com/black-ochre-data-labs"
+    - Telethon Kids Institute: "https://www.telethonkids.org.au/"
+    - Australian National University: "https://www.anu.edu.au/"
 
 ################
 # --- Logo --- #
@@ -265,7 +264,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
