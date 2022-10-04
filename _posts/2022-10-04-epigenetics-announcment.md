@@ -1,9 +1,11 @@
 ---
 layout: post
-title: The first large-scale study of the epigenetic landscape of Indigenous Australians could help tackle some of the chronic diseases faced by Aboriginal and Torres Strait Islander people.
-subtitle: This blog post has been reproduced verbatim from the [original announcement](https://www.telethonkids.org.au/news--events/news-and-events-nav/2022/september/large-scale-study-of-epigenetic-landscape/) on the Telethon Kids Institute website, posted on Wednesday, 21 September 2022
+title: The first large-scale study of the epigenetic landscape of Indigenous Australians
+subtitle: could help tackle some of the chronic diseases faced by Aboriginal and Torres Strait Islander people.
 tags: [epigenomics]
 ---
+
+<center><i>This blog post has been reproduced verbatim from the <a href="https://www.telethonkids.org.au/news--events/news-and-events-nav/2022/september/large-scale-study-of-epigenetic-landscape/">original announcement</a> on the Telethon Kids Institute website, posted on Wednesday, 21 September 2022</i></center>
 
 The project, led by [Professor Alex Brown](https://www.telethonkids.org.au/contact-us/our-people/b/alex-brown/), Head of Indigenous Genomics at [Telethon Kids Institute](https://www.telethonkids.org.au/), The [Australian National University](https://www.anu.edu.au/) and [South Australian Medical and Research Institute](https://www.sahealth.sa.gov.au/wps/wcm/connect/Public+Content/SA+Health+Internet/About+Us/Health+and+medical+research/Research+centres+and+institutes/South+Australian+Health+and+Medical+Research+Institute+-+SAHMRI), has received funding under the Federal Government’s [Medical Research Future Fund](https://www.health.gov.au/initiatives-and-programs/medical-research-future-fund).
 
