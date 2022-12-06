@@ -21,9 +21,10 @@ author: Black Ochre Data Labs
 
 navbar-links:
   About: "about"
-  Our Team: "our-team"
+  Researcher Profiles: "researcher-profiles"
+  Projects: "projects"
   Latest News: "blog"
-  Resources:
+  Affiliations:
     - Telethon Kids Institute: "https://www.telethonkids.org.au/"
     - Australian National University: "https://www.anu.edu.au/"
 
@@ -33,14 +34,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/logo.png"
+# avatar: "/assets/img/logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/fulllogo.png
 
 
 #####################################
@@ -126,7 +127,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#789c7c" # Light green
+navbar-col: "#B84700" # Light green
 navbar-text-col: "#f0ecec" # Light/white
 navbar-border-col: "#eef6fa" # Lighter green
 page-col: "#eaeee8" # Very light green/yellow
