@@ -1,0 +1,19 @@
+leadership:
+- name: Jimmy Breen
+  desc: Chief Data Scientist
+  img: https://github.com/black-ochre-data-labs/black-ochre-data-labs.github.io/blob/main/assets/img/jimmy-breen.png
+  website: https://www.telethonkids.org.au/contact-us/our-people/b/jimmy-breen/
+  twitter: https://twitter.com/wessidepraxis
+  github: https://github.com/jimmybgammyknee
+- name: Bastien Llamas
+  desc: Head of Genome Biology
+  img: https://github.com/black-ochre-data-labs/black-ochre-data-labs.github.io/blob/main/assets/img/bastien-llamas.png
+  website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
+  twitter: http://twitter.com/DNATimeTravel
+members:
+- name: Holly Martin
+  desc: Graduate Bioinformatician
+  img: https://github.com/black-ochre-data-labs/black-ochre-data-labs.github.io/blob/main/assets/img/HollyMartin.png
+  website: https://linktr.ee/hollyanitamartin
+  twitter: https://twitter.com/_holly_martin_
+  github: https://github.com/hollyanitamartin
