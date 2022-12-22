@@ -20,9 +20,10 @@
       <div class="item-links">
         {% if item.website %}
           <li class="list-inline-item">
-        <a href="{{ item.website }}" title="Website">
-        <span class="fa-regular fa-globe" aria-hidden="true">
-        <i class="fab fa-globe fa-stack-1x fa-inverse"></i>
+        <a href="http://{{ item.website }}" title="Website">
+        <span class="fa-stack fa-globe" aria-hidden="true">
+          <i class="fas fa-globe fa-stack-2x"></i>
+          <i class="fab fa-globe fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Website</span>
    </a>
@@ -32,6 +33,7 @@
           <li class="list-inline-item">
     <a href="https://github.com/{{ item.github }}" title="GitHub">
       <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-github fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">GitHub</span>
