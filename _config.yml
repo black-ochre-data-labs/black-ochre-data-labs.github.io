@@ -129,7 +129,7 @@ navbar-var-length: false
 navbar-col: "#dac2b4" # Light orange
 navbar-text-col: "#f0ecec" # Light/white
 navbar-border-col: "#eef6fa" # Lighter green
-page-col: "#eaeee8" # Very light green/yellow
+page-col: "#ebedeb" # Light grey
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -142,7 +142,7 @@ footer-hover-col: "#0085A1" # Darkish blue/green
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/footer-bg.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
