@@ -34,9 +34,14 @@
   </li>
         {% endif %}
         {% if item.twitter %}
-          <a class="item-link" href="{{ item.twitter }}" title="Twitter">
-            <span class="fa fa-twitter"></span>
-          </a>
+          <li class="list-inline-item">
+    <a href="https://twitter.com/{{ item.twitter }}" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitter</span>
+   </a>
+  </li>  
         {% endif %}
       </div>
     </div>
