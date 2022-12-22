@@ -24,9 +24,15 @@
           </a>
         {% endif %}
         {% if item.github %}
-          <a class="item-link" href="{{ item.github }}" title="GitHub">
-            <span class="fa fa-github"></span>
-          </a>
+          <li class="list-inline-item">
+    <a href="https://github.com/{{ site.social-network-links.github }}" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li>
         {% endif %}
         {% if item.twitter %}
           <a class="item-link" href="{{ item.twitter }}" title="Twitter">
