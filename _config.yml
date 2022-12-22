@@ -20,7 +20,6 @@ author: Black Ochre Data Labs
 ###############################################
 
 navbar-links:
-  About: "about"
   Researcher Profiles: "researcher-profiles"
   Projects: "projects"
   Latest News: "blog"
