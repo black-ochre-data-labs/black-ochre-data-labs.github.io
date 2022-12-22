@@ -1,6 +1,6 @@
 ---
 title: People
-default_profile_img: /img/default.png
+default_profile_img: /assets/img/default.png
 ---
 
 ## Leadership team
