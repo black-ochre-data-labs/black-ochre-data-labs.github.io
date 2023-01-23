@@ -1,8 +1,9 @@
 # based on https://github.com/reconhub/reconhub.github.io
 members:
+- name: Professor Alex Brown
+  desc: Director
 - name: Jimmy Breen
-  subtitle: Chief Data Scientist
-  desc: description of Jimmy's job role, experience, and role within the group in more detail.
+  desc: Chief Data Scientist
   img: /assets/img/jimmy-breen.png
   website: https://www.telethonkids.org.au/contact-us/our-people/b/jimmy-breen/
   twitter: https://twitter.com/wessidepraxis
