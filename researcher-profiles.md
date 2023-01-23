@@ -10,7 +10,7 @@ full-width: true
  .grid { 
   display: grid;
   grid-template-columns: auto auto auto;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
   grid-gap: 10px;
   align-items: center
   }
