@@ -13,8 +13,8 @@ full-width: true
   grid-template-rows: 1fr;
   grid-gap: 10px;
   align-items: center;
-  margin-left: 20rem;
-  margin-right: 20rem
+  margin-left: 5rem;
+  margin-right: 5rem
   }
 
 </style>
