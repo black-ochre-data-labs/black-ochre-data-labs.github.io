@@ -3,17 +3,15 @@ title: People
 subtitle: Meet the team at Black Ochre Data Labs
 default_profile_img: /assets/img/default.png
 ---
-
 <html>
-  <head>
-
 <style>
 
  .grid { 
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto auto;
   grid-gap: 30px;
-  align-items: center;
+  align-items: left;
   justify-items: center;
   }
 .grid img {
@@ -25,7 +23,5 @@ default_profile_img: /assets/img/default.png
 
 <main class="grid">
 {% include list-circles.html items=site.data.people.members %}
-  
- </div>
-    </div>
-  </main>
+</main>
+</html>
