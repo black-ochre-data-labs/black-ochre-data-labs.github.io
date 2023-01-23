@@ -9,7 +9,7 @@ default_profile_img: /assets/img/default.png
  .grid { 
   display: grid;
   grid-template-columns: auto auto auto;
-  grid-template-rows: auto auto auto;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
   grid-gap: 10px;
   align-items: center
   }
