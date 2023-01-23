@@ -19,22 +19,10 @@ members:
   website: https://linktr.ee/hollyanitamartin
   twitter: https://twitter.com/_holly_martin_
   github: https://github.com/hollyanitamartin
-  - name: Jimmy Breen
-  subtitle: Chief Data Scientist
-  desc: description of Jimmy's job role, experience, and role within the group in more detail.
-  img: /assets/img/jimmy-breen.png
-  website: https://www.telethonkids.org.au/contact-us/our-people/b/jimmy-breen/
-  twitter: https://twitter.com/wessidepraxis
-  github: https://github.com/jimmybgammyknee
-- name: Bastien Llamas
-  desc: Head of Genome Biology
-  img: /assets/img/bastien-llamas.png
-  website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
-  github: https://github.com/bastienllamas
-  twitter: http://twitter.com/DNATimeTravel
-- name: Holly Martin
-  desc: Graduate Bioinformatician
-  img: /assets/img/holly-martin.png
-  website: https://linktr.ee/hollyanitamartin
-  twitter: https://twitter.com/_holly_martin_
-  github: https://github.com/hollyanitamartin
+- name: Full Name
+  subtitle: Job title
+  desc: description of job role, experience, and role within the group in more detail.
+  img: /assets/img/default.png
+  website: https://www.telethonkids.org.au/
+  twitter: https://twitter.com/
+  github: https://github.com/
