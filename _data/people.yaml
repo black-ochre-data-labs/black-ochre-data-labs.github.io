@@ -1,5 +1,5 @@
 # based on https://github.com/reconhub/reconhub.github.io
-leadership:
+members:
 - name: Jimmy Breen
   desc: Chief Data Scientist
   img: /assets/img/jimmy-breen.png
@@ -11,7 +11,6 @@ leadership:
   img: /assets/img/bastien-llamas.png
   website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
   twitter: http://twitter.com/DNATimeTravel
-members:
 - name: Holly Martin
   desc: Graduate Bioinformatician
   img: /assets/img/holly-martin.png
