@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
+<!--Layout from https://github.com/Opening-ETDs/opening-etds.github.io/--> 
 
-
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
-{% endif %}
+{% include base_path %}
 
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
@@ -45,7 +43,7 @@ layout: default
                                 <div>
                                     {% if page.research %}<div>{{ page.research | markdownify | remove: "<p>" | remove: "</p>" }}</div>{% endif %}
                                 </div>
-        
+
                             </div>
                         </div>
                         <div class="col">
@@ -60,7 +58,7 @@ layout: default
                                 <a href="mailto:waingram@vt.edu" class="button alt">
                                     <i class="fa fa-fw fa-envelope"></i> Email
                                 </a>
-    
+
                             </div>
                         </div>
                     </div>
