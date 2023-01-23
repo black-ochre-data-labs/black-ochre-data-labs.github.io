@@ -12,8 +12,9 @@ full-width: true
   grid-template-columns: auto auto auto;
   grid-template-rows: 1fr;
   grid-gap: 10px;
-  align-items: center
-  margin-left: 20rem
+  align-items: center;
+  margin-left: 20rem;
+  margin-right: 20rem
   }
 
 </style>
