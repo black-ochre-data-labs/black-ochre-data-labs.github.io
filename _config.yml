@@ -126,7 +126,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#B84700" # Navbar colour (top): Dark orange (BODL palette)
+navbar-col: "#7DAAB8" # Navbar colour (top): Light blue/grey matching footer bg img
 navbar-text-col: "#f0ecec" # Navbar text colour: Light/white
 navbar-border-col: "#B84700" # Navbar border colour: Dark orange (BODL palette)
 page-col: "#F7F4F3" # Page background colour: Off white
