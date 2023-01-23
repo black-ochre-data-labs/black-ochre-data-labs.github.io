@@ -133,7 +133,7 @@ page-col: "#F7F4F3" # Page background colour: Off white
 text-col: "#404040" # Almost black
 link-col: "#008AFF" # Blue
 hover-col: "#0085A1" # Darker blue
-footer-col: "#B84700" # Dark orange matching header
+footer-col: "#7DAAB8" # blue/grey matching header
 footer-text-col: "#f0ecec" # Off white
 footer-link-col: "#403c44" # Less dark
 footer-hover-col: "#0085A1" # Darkish blue/green
