@@ -19,8 +19,13 @@
       {% endif %}
       <div class="item-links">
       {% if item.website %}
-        <a class="item-link" href="{{ item.website }}" title="Website">
-          <span class="fa fa-home"></span>
+          <li class="list-inline-item">
+        <a href="{{ item.website }}" title="Website">
+          <span class="fa-stack fa-lg" aria-hidden="true">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-home fa-stack-1x fa-inverse"></i>
+          </span>
+          <span class="sr-only">Website</span>
         </a>
       {% endif %}
         {% if item.github %}
