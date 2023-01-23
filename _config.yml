@@ -20,7 +20,7 @@ author: Black Ochre Data Labs
 ###############################################
 
 navbar-links:
-  Researcher Profiles: "team"
+  Researcher Profiles: "researcher-profiles"
   Projects: "projects"
   Latest News: "blog"
   Affiliations:
@@ -273,11 +273,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-collections:
-    team:
-    output: true
-    permalink: /:collection/:path/
-
+      
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
