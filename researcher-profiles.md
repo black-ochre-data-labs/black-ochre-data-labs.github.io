@@ -10,15 +10,10 @@ default_profile_img: /assets/img/default.png
   display: grid;
   grid-template-columns: auto auto auto;
   grid-template-rows: auto auto auto;
-  grid-gap: 30px;
+  grid-gap: 20px;
   align-items: left;
-  justify-items: center;
   }
-.grid img {
-  border: 1px solid #ccc;
-  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
-  max-width: 100%;
-}
+
 </style>
 
 <main class="grid">
