@@ -24,7 +24,7 @@
         </a>
       {% endif %}
         {% if item.github %}
-          <li class="list-inline-item">
+          <a class="list-inline-item">
     <a href="https://github.com/{{ item.github }}" title="GitHub">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
@@ -32,10 +32,9 @@
       </span>
       <span class="sr-only">GitHub</span>
    </a>
-  </li>
         {% endif %}
         {% if item.twitter %}
-          <li class="list-inline-item">
+          <a class="list-inline-item">
     <a href="https://twitter.com/{{ item.twitter }}" title="Twitter">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
@@ -43,7 +42,6 @@
       </span>
       <span class="sr-only">Twitter</span>
    </a>
-  </li>  
         {% endif %}
       </div>
     </div>
