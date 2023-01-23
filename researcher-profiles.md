@@ -10,8 +10,9 @@ default_profile_img: /assets/img/default.png
   display: grid;
   grid-template-columns: auto auto auto;
   grid-template-rows: auto auto auto;
-  grid-gap: 20px;
+  grid-gap: 10px;
   align-items: left;
+  align-icons: left
   }
 
 </style>
