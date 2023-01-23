@@ -128,7 +128,7 @@ navbar-var-length: false
 
 navbar-col: "#7DAAB8" # Navbar colour (top): Light blue/grey matching footer bg img
 navbar-text-col: "#f0ecec" # Navbar text colour: Light/white
-navbar-border-col: "#B84700" # Navbar border colour: Dark orange (BODL palette)
+navbar-border-col: "#7DAAB8" # Navbar border colour: matching navbar-col
 page-col: "#F7F4F3" # Page background colour: Off white
 text-col: "#404040" # Almost black
 link-col: "#008AFF" # Blue
