@@ -10,7 +10,7 @@ full-width: true
  .grid { 
   display: grid;
   grid-template-columns: 300px 300px 300px 300px;
-  grid-auto-rows: 200px;
+  grid-auto-rows: 500px;
   grid-gap: 10px;
   align-items: center;
   margin-left: 4rem;
