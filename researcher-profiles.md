@@ -17,7 +17,7 @@ full-width: true
   justify-content: space-evenly;
   justify-items: center;
   align-content: space-evenly;
-  align-items: center;
+  align-items: center
  }
 
 </style>
