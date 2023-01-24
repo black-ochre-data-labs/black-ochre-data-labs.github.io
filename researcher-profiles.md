@@ -14,7 +14,7 @@ full-width: true
   gap: 10px;
   align-items: center;
   justify-self: center;
-  align-content: top;
+  align-content: center;
   margin-top: 1rem;
   margin-left: 4rem;
   margin-right: 4rem;
