@@ -9,14 +9,11 @@ full-width: true
 
  .grid { 
   display: grid;
-  grid-template-columns: repeat(4, 300px);
-  grid-auto-rows: minmax(200px, auto);
   gap: 10px;
   margin-top: 1rem;
   margin-left: 4rem;
   margin-right: 4rem;
   word-break: normal;
-  position: relative
   justify-content: space-evenly;
   justify-items: center;
   align-content: space-evenly;
