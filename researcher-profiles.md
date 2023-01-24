@@ -8,7 +8,7 @@ full-width: true
 <style>
 
  .grid { 
-  display: inline-grid;
+  display: grid;
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(200px, auto);
   gap: 10px;
