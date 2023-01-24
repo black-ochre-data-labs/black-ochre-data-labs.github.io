@@ -13,7 +13,8 @@ full-width: true
   grid-auto-rows: minmax(200px, auto);
   gap: 10px;
   align-items: center;
-  justify-self: top;
+  justify-self: center;
+  align-content: top;
   margin-top: 1rem;
   margin-left: 4rem;
   margin-right: 4rem;
