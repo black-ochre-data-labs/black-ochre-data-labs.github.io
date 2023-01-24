@@ -16,9 +16,7 @@ full-width: true
   margin-left: 4rem;
   margin-right: 4rem;
   word-break: normal;
-  justify-content: space-evenly;
   justify-items: center;
-  align-content: space-evenly;
   align-items: center
  }
 
