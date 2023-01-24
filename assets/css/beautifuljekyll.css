@@ -398,14 +398,6 @@ footer {
   {% endif %}
 }
 
-
-  background: url(Images/Elk.png) no-repeat;
-    width:100px;
-    height:300px;
-    top: -108px;  /* Position element */
-    right: 150px; /* Position element */ 
-    position: absolute;
-
 footer p.text-muted {
   color: {{ site.footer-text-col | default: "#777777" }} !important;
 }
