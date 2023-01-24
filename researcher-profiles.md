@@ -9,12 +9,13 @@ full-width: true
 
  .grid { 
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: 1fr;
   grid-template-rows: 1fr;
   grid-gap: 10px;
   align-items: center;
   margin-left: 5rem;
-  margin-right: 5rem
+  margin-right: 5rem;
+  word-break: normal
   }
 
 </style>
