@@ -383,15 +383,15 @@ img {
 
 footer {
     position:fixed;
-    bottom:0;
-    left:0;
-    right:0;
-    width:1000px;
-    height:100px;
+    width:100%;
+    height:200px;
+    padding: 1.875rem 0;
+    font-size: 0.875rem;
+    background-color: {{ site.footer-col | default: "#EAEAEA" }};
     {% if site.footer-img %}
       background-image: url({{ site.footer-img | relative_url }}) no-repeat;
-      width: 1000px;
-      height: 100px;
+      width: 100%;
+      height: 200px;
       bottom: 0px;
       right: 0px;
       font-size: 0.875rem;
