@@ -12,13 +12,16 @@ full-width: true
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(200px, auto);
   gap: 10px;
-  align-items: start;
   margin-top: 1rem;
-  margin-left: 8rem;
-  margin-right: 8rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
   word-break: normal;
   position: relative
-  }
+  justify-content: space-evenly;
+  justify-items: center;
+  align-content: space-evenly;
+  align-items: center;
+ }
 
 </style>
 
