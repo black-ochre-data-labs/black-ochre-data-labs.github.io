@@ -18,7 +18,7 @@ full-width: true
   margin-left: 4rem;
   margin-right: 4rem;
   word-break: normal;
-  position: fixed
+  position: relative
   }
 
 </style>
