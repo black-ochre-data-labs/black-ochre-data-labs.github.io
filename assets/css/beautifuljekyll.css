@@ -390,13 +390,21 @@ footer {
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
-    background-attachment: fixed;
-    background-position: left;
-    left: 0;
-    bottom: 0;
-    width: 100%;
+    width:1000px;
+    height:100px;
+    bottom; 0 /* Position element */
+    left: 0; /* Position element */ 
+    position: absolute;
   {% endif %}
 }
+
+
+  background: url(Images/Elk.png) no-repeat;
+    width:100px;
+    height:300px;
+    top: -108px;  /* Position element */
+    right: 150px; /* Position element */ 
+    position: absolute;
 
 footer p.text-muted {
   color: {{ site.footer-text-col | default: "#777777" }} !important;
