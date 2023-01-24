@@ -385,6 +385,9 @@ footer {
   padding: 1.875rem 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   font-size: 0.875rem;
   position: fixed;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
