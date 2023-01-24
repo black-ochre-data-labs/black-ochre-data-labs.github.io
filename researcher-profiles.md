@@ -12,9 +12,9 @@ full-width: true
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(200px, auto);
   gap: 10px;
-  align-items: center;
+  align-items: top;
   align-self: top;
-  align-content: center;
+  align-content: top;
   text-align: center;
   margin-top: 1rem;
   margin-left: 4rem;
