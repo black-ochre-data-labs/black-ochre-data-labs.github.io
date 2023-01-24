@@ -9,8 +9,8 @@ full-width: true
 
  .grid { 
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 200px 200px 200px 200px 200px 200px;
+  grid-template-rows: auto;
   grid-gap: 10px;
   align-items: center;
   margin-left: 5rem;
