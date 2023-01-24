@@ -381,21 +381,26 @@ img {
 
 /* --- Footer --- */
 
-footer {
-  padding: 1.875rem 0;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  font-size: 0.875rem;
-  background-color: {{ site.footer-col | default: "#EAEAEA" }};
-  {% if site.footer-img %}
-    background-image: url({{ site.footer-img | relative_url }});
+#footer {
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
     width:100%;
-    height:100%;
-    bottom; 0 /* Position element */
-    left: 0; /* Position element */ 
-    position: absolute;
-  {% endif %}
+    height:100px;
+    {% if site.footer-img %}
+      background: url({{ site.footer-img | relative_url }}) no-repeat;
+      width:100px;
+      height:300px;
+      top: -108px;  /* Position element */
+      right: 150px; /* Position element */ 
+      position: absolute;
+}
+
+#footerContainer {
+    position:relative;
+    width:100%;
+    height:100px;
 }
 
 footer p.text-muted {
