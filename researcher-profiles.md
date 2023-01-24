@@ -5,7 +5,6 @@ default_profile_img: /assets/img/default.png
 full-width: true
 ---
 <html>
- <center>
 <style>
 
  .grid { 
@@ -15,8 +14,8 @@ full-width: true
   gap: 10px;
   align-items: start;
   margin-top: 1rem;
-  margin-left: 4rem;
-  margin-right: 4rem;
+  margin-left: 8rem;
+  margin-right: 8rem;
   word-break: normal;
   position: relative
   }
@@ -26,5 +25,4 @@ full-width: true
 <main class="grid">
 {% include list-circles.html items=site.data.people.members %}
 </main>
- </center>
 </html>
