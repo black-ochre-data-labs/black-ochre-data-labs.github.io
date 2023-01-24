@@ -395,6 +395,7 @@ img {
       top: -108px;  /* Position element */
       right: 150px; /* Position element */ 
       position: absolute;
+    {% endif %}
 }
 
 #footerContainer {
