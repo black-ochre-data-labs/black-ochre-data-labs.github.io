@@ -11,17 +11,17 @@ full-width: true
   display: grid;
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(200px, auto);
+  max-width: 500px;
   gap: 10px;
-  margin-top: 1rem;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   word-break: normal;
   align-content: space-evenly
  }
 
 </style>
-
+<body>
 <main class="grid">
 {% include list-circles.html items=site.data.people.members %}
 </main>
+ </body>
 </html>
