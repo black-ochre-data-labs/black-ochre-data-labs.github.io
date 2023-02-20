@@ -10,7 +10,7 @@ full-width: true
  .grid { 
   display: grid;
   grid-template-columns: repeat(4, 300px);
-  grid-auto-rows: minmax(200px, auto);
+  grid-auto-rows: minmax(300px, auto);
   max-width: 1200px;
   margin: auto;
   gap: 10px;
