@@ -11,7 +11,7 @@ full-width: true
   display: grid;
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(200px, auto);
-  max-width: 500px;
+  max-width: 960px;
   gap: 10px;
   margin: auto;
   word-break: normal;
