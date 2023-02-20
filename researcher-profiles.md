@@ -11,11 +11,12 @@ full-width: true
   display: grid;
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(200px, auto);
-  max-width: 960px;
+  max-width: 1200px;
+  margin-left: 4rem;
+  margin-right: 4rem;
   gap: 10px;
-  margin: auto;
   word-break: normal;
-  align-content: space-evenly
+  align-content: space-evenly;
  }
 
 </style>
