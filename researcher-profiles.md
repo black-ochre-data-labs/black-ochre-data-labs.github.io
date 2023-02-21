@@ -24,19 +24,19 @@ full-width: true
 <main class="grid">
 {% include list-circles.html items=site.data.people.general %}
  </main>
- <h2>Genome Biology</h2>
+ <h2><center>Genome Biology</center></h2>
  <main class="grid">
 {% include list-circles.html items=site.data.people.genome_biology %}
   </main>
- <h2>Bioinformatics</h2>
+ <h2><center>Bioinformatics</center></h2>
  <main class="grid">
 {% include list-circles.html items=site.data.people.bioinformatics %}
   </main>
- <h2>Cancer</h2>
+ <h2><center>Cancer</center></h2>
  <main class="grid">
 {% include list-circles.html items=site.data.people.cancer %}
   </main>
- <h2>National Indigenous Genomics Network</h2>
+ <h2><center>National Indigenous Genomics Network</center></h2>
  <main class="grid">
 {% include list-circles.html items=site.data.people.nigc %}
   </main>
