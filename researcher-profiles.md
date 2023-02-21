@@ -18,6 +18,7 @@ full-width: true
   align-content: space-evenly;
   justify-items: center;
   justify-content: center;
+  align-items: center;
  }
 
 </style>
