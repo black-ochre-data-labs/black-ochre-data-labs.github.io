@@ -15,9 +15,9 @@ genome_biology:
   desc: Evolutionary medicine
 bioinformatics:
 - name: Jimmy Breen
-  desc: >
-        Chief Data Scientist
-        bioinformatics, genomics, data science
+  desc: |
+    Chief Data Scientist
+    bioinformatics, genomics, data science
   img: /assets/img/jimmy-breen.png
   website: https://www.telethonkids.org.au/contact-us/our-people/b/jimmy-breen/
   twitter: https://twitter.com/wessidepraxis
