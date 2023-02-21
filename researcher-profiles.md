@@ -22,10 +22,20 @@ full-width: true
 <body>
 <main class="grid">
 {% include list-circles.html items=site.data.people.general %}
+ </main>
+ <main class="grid">
 {% include list-circles.html items=site.data.people.genome_biology %}
+  </main>
+ <main class="grid">
 {% include list-circles.html items=site.data.people.bioinformatics %}
+  </main>
+ <main class="grid">
 {% include list-circles.html items=site.data.people.cancer %}
+  </main>
+ <main class="grid">
 {% include list-circles.html items=site.data.people.nigc %}
+  </main>
+ <main class="grid">
 {% include list-circles.html items=site.data.people.members %}
 </main>
  </body>
