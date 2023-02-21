@@ -15,7 +15,7 @@ genome_biology:
   desc: Evolutionary medicine
 bioinformatics:
 - name: Jimmy Breen
-  desc: > 
+  desc: |
     Chief Data Scientist
     bioinformatics, genomics, data science
   img: /assets/img/jimmy-breen.png
