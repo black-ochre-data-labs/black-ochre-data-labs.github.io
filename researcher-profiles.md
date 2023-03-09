@@ -19,6 +19,7 @@ full-width: true
   justify-self: start;
   place-items:  center;
   justify-items:  center;
+  justify-content: center;
  }
 
 </style>
