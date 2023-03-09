@@ -15,7 +15,10 @@ full-width: true
   margin: auto;
   gap: 10px;
   word-break: normal;
-  justify-content: space-around;
+  align-content: space-evenly;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
  }
 
 </style>
