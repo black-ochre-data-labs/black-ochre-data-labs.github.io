@@ -16,6 +16,7 @@ full-width: true
   gap: 10px;
   word-break: normal;
   align-content: space-evenly;
+  justify-self: start;
  }
 
 </style>
