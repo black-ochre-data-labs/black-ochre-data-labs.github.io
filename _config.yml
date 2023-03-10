@@ -22,6 +22,7 @@ author: Black Ochre Data Labs
 navbar-links:
   Researcher Profiles: "researcher-profiles"
   Projects: "projects"
+  Workshops: "workshops"
   Latest News: "blog"
   Affiliations:
     - Telethon Kids Institute: "https://www.telethonkids.org.au/"
