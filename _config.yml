@@ -23,6 +23,7 @@ navbar-links:
   Researcher Profiles: "researcher-profiles"
   Projects: "projects"
   Workshops: "workshops"
+  Consulting: "consulting"
   Latest News: "blog"
   Affiliations:
     - Telethon Kids Institute: "https://www.telethonkids.org.au/"
