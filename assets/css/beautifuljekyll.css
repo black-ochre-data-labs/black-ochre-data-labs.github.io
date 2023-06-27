@@ -403,7 +403,7 @@ footer {
     background-repeat: no-repeat;
     width: 300px;
     height: 120px;
-    background-size: 20%;
+    background-size: cover;
   {% endif %}
 }
 
