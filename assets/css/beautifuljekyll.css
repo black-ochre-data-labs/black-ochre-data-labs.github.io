@@ -395,7 +395,7 @@ footer {
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#d6e8f2" }};
   {% if site.footer-img %}
-    height: 120px;
+    height: 375px;
     width: 100%;
     background-image: url({{ site.footer-img | relative_url }}) no-repeat, #d6e8f2;
     background-position-x: left;
