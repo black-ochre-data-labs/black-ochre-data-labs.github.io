@@ -401,6 +401,8 @@ footer {
     background-position-x: left;
     background-position-y: bottom;
     background-repeat: no-repeat;
+    width: 300px;
+    height: 120px;
   {% endif %}
 }
 
