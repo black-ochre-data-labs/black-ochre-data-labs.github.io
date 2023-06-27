@@ -400,7 +400,7 @@ footer {
     background-position-x: left;
     background-position-y: bottom;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
   {% endif %}
 }
 
