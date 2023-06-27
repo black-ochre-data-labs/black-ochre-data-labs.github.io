@@ -401,7 +401,7 @@ footer {
     background-position-x: left;
     background-position-y: center;
     background-repeat: no-repeat;
-    background-size: auto, auto;
+    background-size: auto;
   {% endif %}
 }
 
