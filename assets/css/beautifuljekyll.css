@@ -400,7 +400,7 @@ footer {
     background-position-x: left;
     background-position-y: center;
     background-attachment: local;  
-    background-size: 120px 300px;
+    background-size: 300px 120px;
   {% endif %}
 }
 
