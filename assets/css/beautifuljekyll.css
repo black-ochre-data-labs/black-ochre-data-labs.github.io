@@ -399,10 +399,11 @@ footer {
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: local;
     background-position-x: left;
-    background-position-y: bottom;
+    background-position-y: center;
     background-repeat: no-repeat;
     width: 300px;
     height: 120px;
+    background-size: 20%;
   {% endif %}
 }
 
