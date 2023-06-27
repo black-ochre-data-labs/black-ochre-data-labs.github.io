@@ -395,13 +395,13 @@ footer {
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#d6e8f2" }};
   {% if site.footer-img %}
-    background-color: #d6e8f2;
+    background-color: "#d6e8f2";
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: local;
     background-position-x: left;
     background-position-y: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto, auto;
   {% endif %}
 }
 
