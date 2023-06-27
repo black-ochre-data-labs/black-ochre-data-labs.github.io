@@ -396,11 +396,9 @@ footer {
   background-color: {{ site.footer-col | default: "#d6e8f2" }};
   {% if site.footer-img %}
     height: 375px;
-    width: 100%;
-    background-image: url({{ site.footer-img | relative_url }}) no-repeat, #d6e8f2;
+    background-image: url({{ site.footer-img | relative_url }}) no-repeat contain #d6e8f2;
     background-position-x: left;
     background-position-y: center;
-    background-attachment: local;
   {% endif %}
 }
 
