@@ -9,6 +9,7 @@ full-width: true
 
  .grid { 
   display: grid;
+  width: 800px;
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(300px, auto);
   align-content: center;
