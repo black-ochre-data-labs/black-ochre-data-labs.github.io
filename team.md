@@ -15,6 +15,7 @@ full-width: true
   margin: auto;
   gap: 10px;
   word-break: normal;
+  text-align: center;
  }
 
 </style>
