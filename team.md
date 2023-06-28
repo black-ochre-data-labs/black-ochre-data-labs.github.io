@@ -13,7 +13,7 @@ full-width: true
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(300px, auto);
   align-content: center;
-  align-items: center;
+  align-items: top;
   grid-gap: 3px;
   text-align: center;
   max-width: 100%;
