@@ -22,8 +22,7 @@ full-width: true
 
 
 </style>
-<body>
- <center>
+
 <main class="grid">
  {% include list-circles.html items=site.data.people.general %}
  </main>
@@ -43,7 +42,6 @@ full-width: true
  <main class="grid">
  {% include list-circles.html items=site.data.people.nigc %}
   </main>
- </center>
- </body>
+
 
 
