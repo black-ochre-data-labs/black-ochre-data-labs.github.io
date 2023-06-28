@@ -11,9 +11,7 @@ full-width: true
   display: grid;
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(300px, auto);
-  justify-content: space-evenly;
   align-content: center;
-  justify-items: space-evenly;
   align-items: center;
   grid-gap: 3px;
   text-align: center;
@@ -22,7 +20,7 @@ full-width: true
 
 
 </style>
-
+<body>
 <main class="grid">
  {% include list-circles.html items=site.data.people.general %}
  </main>
@@ -42,6 +40,6 @@ full-width: true
  <main class="grid">
  {% include list-circles.html items=site.data.people.nigc %}
   </main>
-
+</body>
 </html>
 
