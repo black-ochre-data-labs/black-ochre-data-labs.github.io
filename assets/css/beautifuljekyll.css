@@ -396,8 +396,8 @@ footer {
   background-color: {{ site.footer-col | default: "#d6e8f2" }};
   {% if site.footer-img %}
     height: 240px;
-    background-color: "#d6e8f2";    
-    background-image: url({{ site.footer-img | relative_url }}) #d6e8f2;
+    width: 100%;
+    background-image: linear-gradient(#d6e8f2, #d6e8f2); url({{ site.footer-img | relative_url }});
     background-position-x: left;
     background-position-y: center;
     background-repeat: no-repeat;
