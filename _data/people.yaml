@@ -1,39 +1,48 @@
 # based on https://github.com/reconhub/reconhub.github.io
 general:
 - name: Professor Alex Brown
-  desc: Director
+  desc: | 
+    Director, Black Ochre Data Labs |
+    Director, National Centre for Indigenous Genomics (ANU) 
 - name: Kaashifah Bruce
-  desc: Program Manager
+  desc: ANU/TKI Program Manager
 genome_biology:
 - name: Bastien Llamas
-  desc: Head of Genome Biology
+  desc: | 
+    Head of Genome Biology |
+    Bioinformatics, Genomics, Evolutionary Medicine
   img: /assets/img/bastien-llamas.png
   website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
   github: https://github.com/bastienllamas
   twitter: http://twitter.com/DNATimeTravel
 - name: Yassine Souilmi
-  desc: Evolutionary medicine
+  desc: |
+    Postdoctoral Research Fellow |
+    Bioinformatics, Genomics, Evolutionary medicine
 bioinformatics:
 - name: Jimmy Breen
   desc: |
-    Chief Data Scientist
-    
-    bioinformatics, genomics, data science
+    Chief Data Scientist |
+    Bioinformatics, Genomics, Data Science
   img: /assets/img/jimmy-breen.png
   website: https://www.telethonkids.org.au/contact-us/our-people/b/jimmy-breen/
   twitter: https://twitter.com/wessidepraxis
   github: https://github.com/jimmybgammyknee
-- name: Sam Buckberry
-  desc: Bioinformatician
+- name: Sam Buckberry 
+  desc: | 
+    Head of Epigenetics |
+    Bioinformatics, Epigenetics, Data Science
 - name: Holly Martin
-  desc: Graduate Bioinformatician
+  desc: |
+    Graduate Bioinformatician |
+    Bioinformatics, Genomics, Visualisation
   img: /assets/img/holly-martin.png
   website: https://linktr.ee/hollyanitamartin
   twitter: https://twitter.com/_holly_martin_
   github: https://github.com/hollyanitamartin
 cancer:
 - name: Justine Clark
-  desc: Postdoctoral research fellow
+  desc: Postdoctoral Research Fellow
 nigc:
 - name: Louise Lyons
   desc: Senior Manager for Strategy and Policy
@@ -47,3 +56,12 @@ members:
   website: https://www.telethonkids.org.au/
   twitter: https://twitter.com/
   github: https://github.com/
+external:
+- name: Hardip Patel
+  desc: |
+    Bioinformatics Lead, National Centre for Indigenous Genomics, ANU 
+- name: Boris Guennewig
+  desc: |
+    Chief Technology Officer & Co-Founder, smrtr | 
+    Principal Consultant, Pacific Analytics |
+    Head Bioinformatics & Statistics Research Group, University of Sydney

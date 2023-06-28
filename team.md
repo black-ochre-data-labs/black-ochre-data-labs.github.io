@@ -39,6 +39,10 @@ full-width: true
  <br><h2><center>National Indigenous Genomics Network</center></h2><br>
  <main class="grid">
  {% include list-circles.html items=site.data.people.nigc %}
+   </main>
+ <br><h2><center>External collaborators</center></h2><br>
+ <main class="grid">
+ {% include list-circles.html items=site.data.people.external %}
   </main>
  </center>
  </body>
