@@ -11,7 +11,8 @@ full-width: true
   display: grid;
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(300px, auto);
-  place-items: center;
+  justify-content: center;
+  align-content: center;
   grid-gap: 3px;
   text-align: center;
  }
