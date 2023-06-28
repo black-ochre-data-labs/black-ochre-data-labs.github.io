@@ -37,7 +37,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
   font-size: 2.25rem;
-  display: flex;
 }
 h2 {
   font-size: 1.875rem;
@@ -682,6 +681,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading {
   text-align: center;
+  white-space: nowrap;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
