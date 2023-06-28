@@ -9,7 +9,7 @@ full-width: true
 
  .grid { 
   display: grid;
-  grid-template-rows: repeat(4, 300px);
+  grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(300px, auto);
   grid-gap: 3px;
   text-align: center;
@@ -48,17 +48,3 @@ full-width: true
  </body>
 
 
-test grid below
-
-<grid>
- <section>{% include list-circles.html items=site.data.people.general %}</section>
- <br><h2><center>Genome Biology</center></h2><br>
-<section>{% include list-circles.html items=site.data.people.genome_biology %}</section>
- <br><h2><center>Bioinformatics</center></h2><br>
-<section>{% include list-circles.html items=site.data.people.bioinformatics %}</section>
- <br><h2><center>Cancer</center></h2><br>
-<section>{% include list-circles.html items=site.data.people.cancer %}</section>
- <br><h2><center>National Indigenous Genomics Network</center></h2><br>
- <section>{% include list-circles.html items=site.data.people.nigc %}</section>
- </grid>
- </html>
