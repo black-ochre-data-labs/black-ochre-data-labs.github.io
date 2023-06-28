@@ -43,5 +43,5 @@ full-width: true
  {% include list-circles.html items=site.data.people.nigc %}
   </main>
 
-
+</html>
 
