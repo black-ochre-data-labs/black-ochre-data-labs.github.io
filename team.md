@@ -17,6 +17,12 @@ full-width: true
   text-align: center;
  }
 
+ .grid-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 </style>
 <body>
  <center>
