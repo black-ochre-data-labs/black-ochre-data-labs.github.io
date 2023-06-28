@@ -17,7 +17,7 @@ full-width: true
   justify-self: center;
   grid-gap: 3px;
   text-align: center;
-  max-width: 100%;
+  max-width: 50%;
  }
 
 
