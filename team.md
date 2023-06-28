@@ -8,14 +8,18 @@ full-width: true
 <style>
 
  .grid { 
-  display: grid;
-  grid-template-columns: repeat(4, 300px);
+  display: inline-grid;
+  grid-template-rows: repeat(4, 300px);
   grid-auto-rows: minmax(300px, auto);
-  max-width: 1200px;
-  margin: auto;
-  gap: 10px;
-  word-break: normal;
+  grid-gap: 3px;
   text-align: center;
+ }
+
+ .section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3em;
  }
 
 </style>
@@ -42,4 +46,19 @@ full-width: true
   </main>
  </center>
  </body>
-</html>
+
+
+test grid below
+
+<grid>
+ <section>{% include list-circles.html items=site.data.people.general %}</section>
+ <br><h2><center>Genome Biology</center></h2><br>
+<section>{% include list-circles.html items=site.data.people.genome_biology %}</section>
+ <br><h2><center>Bioinformatics</center></h2><br>
+<section>{% include list-circles.html items=site.data.people.bioinformatics %}</section>
+ <br><h2><center>Cancer</center></h2><br>
+<section>{% include list-circles.html items=site.data.people.cancer %}</section>
+ <br><h2><center>National Indigenous Genomics Network</center></h2><br>
+ <section>{% include list-circles.html items=site.data.people.nigc %}</section>
+ </grid>
+ </html>
