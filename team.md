@@ -17,13 +17,6 @@ full-width: true
   text-align: center;
  }
 
- .section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 3em;
- }
-
 </style>
 <body>
  <center>
