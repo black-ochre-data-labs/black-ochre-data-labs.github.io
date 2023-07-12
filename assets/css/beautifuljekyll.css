@@ -17,7 +17,7 @@ body {
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
-    background-image: url({{ site.page-img | relative_url }}), linear-gradient(to right, #DADFDA, #3d3d40);
+    background-image: url({{ site.page-img | relative_url }});
     background-position-x: right;
     background-position-y: center;
     background-attachment: fixed;
@@ -132,7 +132,7 @@ img {
   font-family: 'Figtree', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   position: fixed;
   {% if site.navbar-img %}
-    background-image: url({{ site.navbar-img | relative_url }});
+    background-image: url({{ site.navbar-img | relative_url }}), linear-gradient(to right, #BBBBBB, #737373, #3d3d40);
     background-attachment: fixed;
     background-position-x: left;
     background-position-y: bottom;
@@ -397,7 +397,7 @@ footer {
   {% if site.footer-img %}
     height: 240px;
     width: 100%;
-    background-image: url({{ site.footer-img | relative_url }}), linear-gradient(to right, #DADFDA, #3d3d40);
+    background-image: url({{ site.footer-img | relative_url }}), linear-gradient(to right, #BBBBBB, #737373, #3d3d40);
     background-position-x: left;
     background-position-y: center;
     background-repeat: no-repeat;
