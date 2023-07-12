@@ -137,8 +137,8 @@ link-col: "#008AFF" # Blue
 hover-col: "#0085A1" # Darker blue
 footer-col: "#ebedeb" # overriden by footer-img
 footer-grad: "to bottom right, #BBBBBB, #737373, #3d3d40"
-footer-text-col: "#F7F4F3" # grey
-footer-link-col: "#008AFF" # Less dark
+footer-text-col: "#F7F4F3" # off white
+footer-link-col: "#A6A6A6" # grey
 footer-hover-col: "#0085A1" # Darkish blue/green
 
 # Alternatively, the navbar, footer, and page background can be set to an image
