@@ -136,7 +136,7 @@ text-col: "#404040" # Almost black
 link-col: "#008AFF" # Blue
 hover-col: "#0085A1" # Darker blue
 footer-col: "#ebedeb" # overriden by footer-img
-footer-text-col: "#3d3d40" # grey
+footer-text-col: "#F7F4F3" # grey
 footer-link-col: "#403c44" # Less dark
 footer-hover-col: "#0085A1" # Darkish blue/green
 
