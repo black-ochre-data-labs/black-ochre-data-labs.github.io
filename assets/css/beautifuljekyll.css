@@ -132,7 +132,7 @@ img {
   font-family: 'Figtree', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   position: fixed;
   {% if site.navbar-img %}
-    background-image: url({{ site.navbar-img | relative_url }}), {{ site.navbar-col }};
+    background-image: url({{ site.navbar-img | relative_url }}), linear-gradient({{ site.navbar-col }});
     background-attachment: fixed;
     background-position-x: left;
     background-position-y: bottom;
@@ -397,7 +397,7 @@ footer {
   {% if site.footer-img %}
     height: 240px;
     width: 100%;
-    background-image: url({{ site.footer-img | relative_url }}), {{ site.footer-grad }};
+    background-image: url({{ site.footer-img | relative_url }}), linear-gradient({{ site.footer-grad }});
     background-position-x: left;
     background-position-y: center;
     background-repeat: no-repeat;
