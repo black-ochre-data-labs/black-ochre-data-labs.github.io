@@ -127,7 +127,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
+  background-color: linear-gradient({{ site.navbar-col | default: "#EAEAEA" }});
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   font-family: 'Figtree', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   position: fixed;
