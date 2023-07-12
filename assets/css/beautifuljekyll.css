@@ -397,7 +397,7 @@ footer {
   {% if site.footer-img %}
     height: 240px;
     width: 100%;
-    background-image: url({{ site.footer-img | relative_url }}), linear-gradient(#d6e8f2, #d6e8f2);
+    background-image: url({{ site.footer-img | relative_url }}), linear-gradient(to right, #ebedeb, #3d3d40);
     background-position-x: left;
     background-position-y: center;
     background-repeat: no-repeat;
