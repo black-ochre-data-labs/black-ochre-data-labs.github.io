@@ -127,12 +127,12 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: linear-gradient({{ site.navbar-col }});
+  background-color: linear-gradient({{ site.navbar-grad }});
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   font-family: 'Figtree', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   position: fixed;
   {% if site.navbar-img %}
-    background-image: url({{ site.navbar-img | relative_url }}), linear-gradient({{ site.navbar-col }});
+    background-image: url({{ site.navbar-img | relative_url }}), linear-gradient({{ site.navbar-grad }});
     background-attachment: fixed;
     background-position-x: left;
     background-position-y: bottom;
