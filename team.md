@@ -33,8 +33,10 @@ full-width: false
 ## Testing below 
 
 ### General 
+<div class="grid">
 {% include list-circles.html items=site.data.people.general %}
-
+</div>
 ### Bioinformatics
-
+<div class="grid">
 {% include list-circles.html items=site.data.people.bioinformatics %}
+</div>
