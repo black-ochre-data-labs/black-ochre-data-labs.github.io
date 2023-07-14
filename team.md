@@ -8,10 +8,14 @@ full-width: false
 <style>
  .grid { 
   display: grid;
-  grid-template-columns: repeat(4, 300px);
+  grid-template-columns: repeat(3, 250px);
   grid-auto-rows: minmax(300px, auto);
   grid-gap: 3px;
   justify-self: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
  }
 </style>
  
@@ -37,6 +41,7 @@ full-width: false
 {% include list-circles.html items=site.data.people.general %}
 </div>
 ### Bioinformatics
+<br><h2><center>Bioinformatics</center></h2><br>
 <div class="grid">
 {% include list-circles.html items=site.data.people.bioinformatics %}
 </div>
