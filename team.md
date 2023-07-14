@@ -12,6 +12,7 @@ full-width: false
   grid-auto-rows: minmax(300px, auto);
   grid-gap: 3px;
   justify-self: center;
+  align-items: center;
  }
 </style>
  
@@ -24,7 +25,7 @@ full-width: false
 {% include list-circles.html items=site.data.people.genome_biology %} 
  </div>
  <br><h2><center>Bioinformatics</center></h2><br>
- <div class="grid">
+ <div class="grid" align="center">
 {% include list-circles.html items=site.data.people.bioinformatics %}
  </div>
  <br><h2><center>Cancer</center></h2><br>
