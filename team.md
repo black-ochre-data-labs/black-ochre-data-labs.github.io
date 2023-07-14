@@ -13,9 +13,6 @@ full-width: false
   grid-gap: 3px;
   justify-self: center;
   position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
  }
 </style>
  
