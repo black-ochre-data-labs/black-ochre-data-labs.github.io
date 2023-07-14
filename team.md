@@ -12,7 +12,6 @@ full-width: false
   grid-auto-rows: minmax(300px, auto);
   grid-gap: 3px;
   justify-self: center;
-  position: fixed;
  }
 </style>
  
