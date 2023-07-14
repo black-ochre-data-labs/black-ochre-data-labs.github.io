@@ -2,7 +2,7 @@
 title: People
 subtitle: Meet the team at Black Ochre Data Labs
 default_profile_img: /assets/img/default.png
-full-width: true
+full-width: false
 ---
 <html>
 <style>
