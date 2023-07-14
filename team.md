@@ -41,3 +41,11 @@ full-width: false
 </body>
 </html>
 
+## Testing below 
+
+### General 
+{% include list-circles.html items=site.data.people.general %}
+
+### Bioinformatics
+
+{% include list-circles.html items=site.data.people.bioinformatics %}
