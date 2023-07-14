@@ -6,38 +6,27 @@ full-width: false
 ---
 <html>
 <style>
-
  .grid { 
   display: grid;
   grid-template-columns: repeat(4, 300px);
   grid-auto-rows: minmax(300px, auto);
   grid-gap: 3px;
   justify-self: center;
-  max-width: 50%;
  }
-
-
 </style>
+ 
 <body>
-<div class="grid">
+<main class="grid">
  {% include list-circles.html items=site.data.people.general %}
- </div>
- <br><h2><center>Genome Biology</center></h2><br>
- <div class="grid">
-{% include list-circles.html items=site.data.people.genome_biology %}
-  </div>
+ <br><h2><center>Genome Biology</center></h2><br> 
+{% include list-circles.html items=site.data.people.genome_biology %} 
  <br><h2><center>Bioinformatics</center></h2><br>
- <div class="grid">
-{% include list-circles.html items=site.data.people.bioinformatics %}
-  </div>
+{% include list-circles.html items=site.data.people.bioinformatics %} 
  <br><h2><center>Cancer</center></h2><br>
- <div class="grid">
   {% include list-circles.html items=site.data.people.cancer %}
-  </div>
  <br><h2><center>National Indigenous Genomics Network</center></h2><br>
- <div class="grid">
  {% include list-circles.html items=site.data.people.nigc %}
-  </div>
+  </main>
 </body>
 </html>
 
