@@ -11,7 +11,7 @@ full-width: false
   grid-template-columns: 300px 300px 300px;
   grid-gap: 5px;
   flex-wrap: wrap;
-  align-self: stretch;
+  align-self: start;
   margin: 20%;
  }
 </style>
