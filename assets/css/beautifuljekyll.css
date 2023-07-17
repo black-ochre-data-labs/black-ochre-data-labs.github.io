@@ -1142,6 +1142,7 @@ pre {
   grid-template-columns: repeat(4, 300px);
   gap: 5px;
   grid-auto-rows: minmax(300px, auto);
+  justify-content: center;
  }
 
  .grid-item {
