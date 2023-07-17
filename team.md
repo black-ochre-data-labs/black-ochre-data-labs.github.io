@@ -12,7 +12,7 @@ full-width: false
   grid-gap: 5px;
   flex-wrap: wrap;
   align-self: stretch;
-  margin: 500px;
+  margin: 20%;
  }
 </style>
  
