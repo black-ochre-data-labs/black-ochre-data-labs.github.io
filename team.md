@@ -13,7 +13,8 @@ full-width: false
   flex-wrap: wrap;
   align-self: start;
   justify-content: center;
-  margin: 20%;
+  margin-left: 30%;
+  margin-right: 30%;
  }
 </style>
  
