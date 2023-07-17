@@ -1153,6 +1153,24 @@ pre {
    align-items: center;
  }
 
+.flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  height: 650px;
+  width: 1200px;
+  align-content: space-around;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.flexbox-item{
+   align-self: start;
+   justify-self: center;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+}
+
 .list-circles {
   text-align: center;
   justify-content: center;
