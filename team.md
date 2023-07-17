@@ -13,8 +13,9 @@ default_profile_img: /assets/img/default.png
  }
 
  .grid-item {
- align-self: center;
+ align-self: start;
  justify-self: center;
+ 
  }
 </style>
  
