@@ -7,7 +7,7 @@ default_profile_img: /assets/img/default.png
 <style>
  .grid { 
   display: grid;
-  grid-template-columns: repeat(3, 300px);
+  grid-template-columns: repeat(4, 300px);
   gap: 5px;
   grid-auto-rows: minmax(300px, auto);
  }
