@@ -20,7 +20,7 @@ default_profile_img: /assets/img/default.png
  
 <body>
 <div class="grid">
- <div class="grid-item">
+ <div class="grid-item" align="center">
  {% include list-circles.html items=site.data.people.general %}
  </div>
 </div>
