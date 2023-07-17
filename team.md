@@ -2,39 +2,55 @@
 title: People
 subtitle: Meet the team at Black Ochre Data Labs
 default_profile_img: /assets/img/default.png
-full-width: false
 ---
 <html>
 <style>
  .grid { 
   display: grid;
-  grid-template-columns: 300px 300px 300px;
-  grid-gap: 5px;
-  flex-wrap: wrap;
-  align-items: start;
-  justify-content: center;
+  grid-template-columns: repeat(3, 300px);
+  gap: 5px;
+  grid-auto-rows: minmax(300px, auto);
+  grid-template-areas:
+    ". a a ."
+    ". a a .";
+ }
+
+ .grid-item {
+ grid-area: a;
+ align-self: center;
+ justify-self: center;
  }
 </style>
  
 <body>
 <div class="grid">
+ <div class="grid-item">
  {% include list-circles.html items=site.data.people.general %}
+ </div>
 </div>
  <br><h2><center>Genome Biology</center></h2><br>
  <div class="grid">
+  <div class="grid-item">
 {% include list-circles.html items=site.data.people.genome_biology %} 
- </div>
+  </div>
+  </div>
  <br><h2><center>Bioinformatics</center></h2><br>
  <div class="grid">
+  <div class="grid-item">
 {% include list-circles.html items=site.data.people.bioinformatics %}
- </div>
+  </div>
+  </div>
  <br><h2><center>Cancer</center></h2><br>
  <div class="grid">
+  <div class="grid-item">
   {% include list-circles.html items=site.data.people.cancer %}
- </div>
+  </div>
+  </div>
  <br><h2><center>National Indigenous Genomics Network</center></h2><br>
  <div class="grid">
+  <div class="grid-item">
  {% include list-circles.html items=site.data.people.nigc %}
- </div>
+  </div>
+  </div>
 </body>
 </html>
