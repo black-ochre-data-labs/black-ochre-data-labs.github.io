@@ -1164,6 +1164,11 @@ pre {
   justify-content: center;
 }
 
+.flexbox-item {
+  flex: 1;
+  text-align: center;
+}
+
 .flexbox div {
   flex: 1;
   text-align: center;
