@@ -13,7 +13,7 @@ full-width: false
   flex-wrap: wrap;
   align-items: start;
   align-self: stretch;
-  grid-area: a;
+  grid-area: auto;
  }
 </style>
  
