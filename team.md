@@ -27,7 +27,7 @@ full-width: false
 {% include list-circles.html items=site.data.people.genome_biology %} 
  </div>
  <br><h2><center>Bioinformatics</center></h2><br>
- <div class="grid" align="center">
+ <div class="grid">
 {% include list-circles.html items=site.data.people.bioinformatics %}
  </div>
  <br><h2><center>Cancer</center></h2><br>
