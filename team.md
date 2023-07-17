@@ -8,13 +8,9 @@ full-width: false
 <style>
  .grid { 
   display: grid;
-  grid-template-columns: repeat(3, 250px);
-  grid-auto-rows: minmax(300px, auto);
-  grid-gap: 3px;
-  justify-self: center;
-  align-items: top;
-  justify-items: center;
-  align-self: bottom;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 5px;
+  flex-wrap: wrap;
  }
 </style>
  
@@ -40,15 +36,3 @@ full-width: false
  </div>
 </body>
 </html>
-
-## Testing below 
-
-### General 
-<div class="grid">
-{% include list-circles.html items=site.data.people.general %}
-</div>
-### Bioinformatics
-<br><h2><center>Bioinformatics</center></h2><br>
-<div class="grid">
-{% include list-circles.html items=site.data.people.bioinformatics %}
-</div>
