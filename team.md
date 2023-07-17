@@ -37,3 +37,22 @@ layout: team
   </div>
 </body>
 </html>
+
+
+# Testing removal of html
+ {% include list-circles.html items=site.data.people.general %}
+
+ ## Genome Biology md
+ {% include list-circles.html items=site.data.people.genome_biology %} 
+
+ <br><h2><center>Genome Biology html</center></h2><br>
+ {% include list-circles.html items=site.data.people.genome_biology %} 
+
+ ## Bioinformatics
+ {% include list-circles.html items=site.data.people.bioinformatics %}
+
+ ## Cancer
+ {% include list-circles.html items=site.data.people.cancer %}
+
+ ## National Indigenous Genomics Network
+ {% include list-circles.html items=site.data.people.nigc %}
