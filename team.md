@@ -12,6 +12,7 @@ full-width: false
   grid-gap: 5px;
   flex-wrap: wrap;
   align-self: start;
+  justify-content: center;
   margin: 20%;
  }
 </style>
