@@ -10,13 +10,9 @@ default_profile_img: /assets/img/default.png
   grid-template-columns: repeat(3, 300px);
   gap: 5px;
   grid-auto-rows: minmax(300px, auto);
-  grid-template-areas:
-    ". a a ."
-    ". a a .";
  }
 
  .grid-item {
- grid-area: a;
  align-self: center;
  justify-self: center;
  }
