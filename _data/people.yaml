@@ -31,6 +31,27 @@ bioinformatics:
   website: https://linktr.ee/hollyanitamartin
   twitter: https://twitter.com/_holly_martin_
   github: https://github.com/hollyanitamartin
+- name: Full Name
+  subtitle: Job title
+  desc: description of job role, experience, and role within the group in more detail.
+  img: /assets/img/default.png
+  website: https://www.telethonkids.org.au/
+  twitter: https://twitter.com/
+  github: https://github.com/
+- name: Full Name2
+  subtitle: Job title
+  desc: description of job role, experience, and role within the group in more detail.
+  img: /assets/img/default.png
+  website: https://www.telethonkids.org.au/
+  twitter: https://twitter.com/
+  github: https://github.com/
+- name: Full Name3
+  subtitle: Job title
+  desc: description of job role, experience, and role within the group in more detail.
+  img: /assets/img/default.png
+  website: https://www.telethonkids.org.au/
+  twitter: https://twitter.com/
+  github: https://github.com/
 cancer:
 - name: Justine Clark
   desc: Postdoctoral research fellow
