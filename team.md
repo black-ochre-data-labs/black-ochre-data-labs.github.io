@@ -11,6 +11,9 @@ full-width: false
   grid-template-columns: 300px 300px 300px;
   grid-gap: 5px;
   flex-wrap: wrap;
+  align-items: start;
+  align-self: stretch;
+  grid-area: a;
  }
 </style>
  
