@@ -13,7 +13,6 @@ full-width: false
   flex-wrap: wrap;
   align-self: stretch;
   place-items: center stretch;
-  place-content: start space-evenly;
   grid-area: auto;
   margin: 500px;
  }
