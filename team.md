@@ -8,7 +8,7 @@ full-width: false
 <style>
  .grid { 
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 300px 300px 300px;
   grid-gap: 5px;
   flex-wrap: wrap;
  }
