@@ -1164,13 +1164,9 @@ pre {
   justify-content: center;
 }
 
-.flexbox-item {
-  width: 300px;
-  height: 300px;
+.flexbox div {
+  flex: 1;
   text-align: center;
-  justify-self: center;
-  justify-content: center;
-  align-items: flex-start;
 }
 
 .list-circles {
