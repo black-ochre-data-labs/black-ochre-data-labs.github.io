@@ -12,7 +12,6 @@ full-width: false
   grid-gap: 5px;
   flex-wrap: wrap;
   align-self: stretch;
-  place-items: center stretch;
   grid-area: auto;
   margin: 500px;
  }
