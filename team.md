@@ -5,7 +5,6 @@ default_profile_img: /assets/img/default.png
 layout: team
 ---
 <html>
-  <body>
 <br><h2><center>Testing removal of html</center></h2><br>
 {% include list-circles.html items=site.data.people.general %}
 
@@ -20,5 +19,4 @@ layout: team
 
 <br><h2><center>National Indigenous Genomics Network</center></h2><br>
 {% include list-circles.html items=site.data.people.nigc %}
-  </body>
 </html>
