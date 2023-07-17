@@ -4,21 +4,21 @@ subtitle: Meet the team at Black Ochre Data Labs
 default_profile_img: /assets/img/default.png
 layout: team
 ---
-
-# Testing removal of html
+<html>
+  <body>
+<br><h2><center>Testing removal of html</center></h2><br>
 {% include list-circles.html items=site.data.people.general %}
 
-## Genome Biology md
+<br><h2><center>Genome Biology html</center></h2><br>
 {% include list-circles.html items=site.data.people.genome_biology %} 
 
-<html><br><h2><center>Genome Biology html</center></h2><br></html>
-{% include list-circles.html items=site.data.people.genome_biology %} 
-
-## Bioinformatics
+<br><h2><center>Bioinformatics</center></h2><br>
 {% include list-circles.html items=site.data.people.bioinformatics %}
 
-## Cancer
+<br><h2><center>Cancer</center></h2><br>
 {% include list-circles.html items=site.data.people.cancer %}
 
-## National Indigenous Genomics Network
+<br><h2><center>National Indigenous Genomics Network</center></h2><br>
 {% include list-circles.html items=site.data.people.nigc %}
+  </body>
+</html>
