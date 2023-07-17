@@ -5,9 +5,9 @@ layout: base
 {% include header.html type="page" %}
 
 <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main" align="center">
-  <div class="row">
+  <div class="row" align="center">
       {% if page.before-content %}
-        <div class="before-content">
+        <div class="before-content" align="center">
           {% for file in page.before-content %}
             {% include {{ file }} %}
           {% endfor %}
@@ -17,7 +17,7 @@ layout: base
       {{ content }}
 
       {% if page.after-content %}
-        <div class="after-content">
+        <div class="after-content" align="center">
           {% for file in page.after-content %}
             {% include {{ file }} %}
           {% endfor %}
