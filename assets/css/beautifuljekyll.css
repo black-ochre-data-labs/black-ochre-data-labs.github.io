@@ -702,7 +702,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header .post-heading .post-subheading {
   font-size: 1.6875rem;
   line-height: 1.1;
-  display: block;
+  display: flex;
   font-family: 'Figtree', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
