@@ -1156,7 +1156,7 @@ pre {
 .flexbox {
   display: flex;
   flex-wrap: wrap;
-  height: 650px;
+  height: auto;
   width: 1200px;
   gap: 5px;
   align-content: space-around;
