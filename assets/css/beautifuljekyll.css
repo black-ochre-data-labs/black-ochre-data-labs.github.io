@@ -75,7 +75,7 @@ hr.small {
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
   content: "";
-  display: flex;
+  display: block;
   height: 3.125rem; /* navbar height */
   margin: -3.125rem 0 0;
 }
@@ -359,7 +359,7 @@ img {
   {% unless site.round-avatar == false %}
     border-radius: 50%;
   {% endunless %}
-  display: flex;
+  display: block;
 }
 
 .navbar-custom.top-nav-expanded .avatar-container {
@@ -510,7 +510,7 @@ footer .footer-custom-content {
 }
 @media (max-width: 767px) {
   .post-heading .post-meta {
-    display: flex;
+    display: block;
     margin-bottom: 0;
   }
 }
@@ -563,7 +563,7 @@ footer .footer-custom-content {
     display: none;
   }
   .post-preview .post-image-small {
-    display: flex;
+    display: block;
   }
 }
 
@@ -702,7 +702,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header .post-heading .post-subheading {
   font-size: 1.6875rem;
   line-height: 1.1;
-  display: flex;
+  display: block;
   font-family: 'Figtree', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
@@ -768,7 +768,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 @media (max-width: 365px) {
   .header-section.has-img .intro-header.no-img {
-    display: flex;
+    display: block;
   }
   .intro-header.big-img {
     width: 100%;
@@ -793,7 +793,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 @media (max-width: 500px) {
   #header-gh-btns > iframe {
-    display: flex;
+    display: block;
     margin-bottom: 0.3125rem;
   }
 }
@@ -1006,7 +1006,7 @@ pre {
   font-style: italic;
   color: #777;
   margin: 0;
-  display: flex;
+  display: block;
   border-bottom-right-radius: 0.3125rem;
   border-bottom-left-radius: 0.3125rem;
 }
@@ -1065,7 +1065,7 @@ pre {
   text-align: center;
   background: #e7edee;
   margin: auto;
-  display: flex;
+  display: block;
   font-size: 2rem;
   width: 50%;
   transition: width 300ms ease;
