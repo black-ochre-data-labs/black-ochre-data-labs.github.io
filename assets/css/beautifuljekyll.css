@@ -1165,7 +1165,7 @@ pre {
 }
 
 .flexbox-item {
-  flex: 1 1 300px;
+  flex: 1 0 300px;
   text-align: center;
 }
 
