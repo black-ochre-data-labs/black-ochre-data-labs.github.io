@@ -1030,7 +1030,7 @@ pre {
 }
 
 .center {
-  display: flex;
+  display: block;
   margin: 0 auto;
 }
 
@@ -1170,7 +1170,7 @@ pre {
 }
 
 .flexbox div {
-  flex: 1;
+  flex: 1 0 300px;
   text-align: center;
 }
 
