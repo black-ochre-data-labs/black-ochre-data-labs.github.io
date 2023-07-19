@@ -50,6 +50,11 @@ h4 {
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+h1c {
+  font-size: 2.125rem;
+  align: center;
+  text-align: center;
+}
 a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
