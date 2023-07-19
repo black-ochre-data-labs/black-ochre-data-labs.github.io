@@ -9,25 +9,25 @@ layout: team
   <body>
   
 {% include list-circles.html items=site.data.people.general %}
-
-<h1c>Genome Biology</h1c>
-
+  <div class="h1c">
+  Genome Biology
+  </div>
 {% include list-circles.html items=site.data.people.genome_biology %} 
 
-  <div text-align="center">
-  <h1c>Bioinformatics</h1c>
+  <div class="h1c">
+  Bioinformatics
 </div>
 
 {% include list-circles.html items=site.data.people.bioinformatics %}
 
-  <div text-align="center">
-  <h1c>Cancer</h1c>
+  <div class="h1c">
+  Cancer
 </div>
 
 {% include list-circles.html items=site.data.people.cancer %}
 
-  <div text-align="center">
-  <h1c>National Indigenous Genomics Network</h1c>
+  <div class="h1c">
+  National Indigenous Genomics Network
 </div>
 
 {% include list-circles.html items=site.data.people.nigc %}
