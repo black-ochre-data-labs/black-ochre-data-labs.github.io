@@ -11,7 +11,7 @@ layout: team
 {% include list-circles.html items=site.data.people.general %}
 
   <div align="center">
-  <h1>Genome Biology</h1>
+  <p><h1>Genome Biology</h1></p>
 </div>
 
 {% include list-circles.html items=site.data.people.genome_biology %} 
