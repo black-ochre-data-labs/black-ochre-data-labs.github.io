@@ -7,27 +7,14 @@ layout: team
 
 <html>
   <body>
-  
 {% include list-circles.html items=site.data.people.general %}
   <h1 class="center">Genome Biology</h1>
 {% include list-circles.html items=site.data.people.genome_biology %} 
-
-  <div class="h1c">
-  Bioinformatics
-</div>
-
+  <h1 class="center">Bioinformatics</h1>
 {% include list-circles.html items=site.data.people.bioinformatics %}
-
-  <div class="h1c">
-  Cancer
-</div>
-
+  <h1 class="center">Cancer</h1>
 {% include list-circles.html items=site.data.people.cancer %}
-
-  <div class="h1c">
-  National Indigenous Genomics Network
-</div>
-
+  <h1 class="center">National Indigenous Genomics Network</h1>
 {% include list-circles.html items=site.data.people.nigc %}
   </body>
 </html>
