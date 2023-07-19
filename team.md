@@ -9,9 +9,7 @@ layout: team
   <body>
   
 {% include list-circles.html items=site.data.people.general %}
-  <div class="h1c">
-  Genome Biology
-  </div>
+  <h1 class="center">Genome Biology</h1>
 {% include list-circles.html items=site.data.people.genome_biology %} 
 
   <div class="h1c">
