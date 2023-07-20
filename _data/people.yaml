@@ -2,7 +2,7 @@
 general:
 - name: Professor Alex Brown
   desc: | 
-    Director, Black Ochre Data Labs |
+    Director, Black Ochre Data Labs <br>
     Director, National Centre for Indigenous Genomics (ANU) 
 - name: Kaashifah Bruce
   desc: ANU/TKI Program Manager
@@ -17,12 +17,12 @@ genome_biology:
   twitter: http://twitter.com/DNATimeTravel
 - name: Yassine Souilmi
   desc: |
-    Postdoctoral Research Fellow |
+    Postdoctoral Research Fellow <br>
     Bioinformatics, Genomics, Evolutionary medicine
 bioinformatics:
 - name: Jimmy Breen
   desc: |
-    Chief Data Scientist |
+    Chief Data Scientist <br>
     Bioinformatics, Genomics, Data Science
   img: /assets/img/jimmy-breen.png
   website: https://www.telethonkids.org.au/contact-us/our-people/b/jimmy-breen/
@@ -30,37 +30,16 @@ bioinformatics:
   github: https://github.com/jimmybgammyknee
 - name: Sam Buckberry 
   desc: | 
-    Head of Epigenetics |
+    Head of Epigenetics <br>
     Bioinformatics, Epigenetics, Data Science
 - name: Holly Martin
   desc: |
-    Graduate Bioinformatician |
+    Graduate Bioinformatician <br>
     Bioinformatics, Genomics, Visualisation
   img: /assets/img/holly-martin.png
   website: https://linktr.ee/hollyanitamartin
   twitter: https://twitter.com/_holly_martin_
   github: https://github.com/hollyanitamartin
-- name: Full Name
-  subtitle: Job title
-  desc: description of job role, experience, and role within the group in more detail.
-  img: /assets/img/default.png
-  website: https://www.telethonkids.org.au/
-  twitter: https://twitter.com/
-  github: https://github.com/
-- name: Full Name2
-  subtitle: Job title
-  desc: description of job role, experience, and role within the group in more detail.
-  img: /assets/img/default.png
-  website: https://www.telethonkids.org.au/
-  twitter: https://twitter.com/
-  github: https://github.com/
-- name: Full Name3
-  subtitle: Job title
-  desc: description of job role, experience, and role within the group in more detail.
-  img: /assets/img/default.png
-  website: https://www.telethonkids.org.au/
-  twitter: https://twitter.com/
-  github: https://github.com/
 cancer:
 - name: Justine Clark
   desc: Postdoctoral Research Fellow
@@ -68,21 +47,13 @@ nigc:
 - name: Louise Lyons
   desc: Senior Manager for Strategy and Policy
 - name: Amanda Richards-Satour
-  desc: Community engagement coordinator
-members:
-- name: Full Name
-  subtitle: Job title
-  desc: description of job role, experience, and role within the group in more detail.
-  img: /assets/img/default.png
-  website: https://www.telethonkids.org.au/
-  twitter: https://twitter.com/
-  github: https://github.com/
+  desc: Community Engagement Coordinator
 external:
 - name: Hardip Patel
   desc: |
     Bioinformatics Lead, National Centre for Indigenous Genomics, ANU 
 - name: Boris Guennewig
   desc: |
-    Chief Technology Officer & Co-Founder, smrtr | 
-    Principal Consultant, Pacific Analytics |
+    Chief Technology Officer & Co-Founder, smrtr <br>
+    Principal Consultant, Pacific Analytics <br>
     Head Bioinformatics & Statistics Research Group, University of Sydney
