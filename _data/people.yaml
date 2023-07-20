@@ -5,7 +5,9 @@ general:
     Director, Black Ochre Data Labs <br>
     Director, National Centre for Indigenous Genomics (ANU) 
 - name: Kaashifah Bruce
-  desc: ANU/TKI Program Manager
+  desc: |
+    Program Manager <br>
+    Indigenous Genomics (TKI/ANU)
 bioinformatics:
 - name: Jimmy Breen
   desc: |
