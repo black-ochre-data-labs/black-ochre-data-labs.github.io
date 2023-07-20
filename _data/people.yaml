@@ -6,19 +6,6 @@ general:
     Director, National Centre for Indigenous Genomics (ANU) 
 - name: Kaashifah Bruce
   desc: ANU/TKI Program Manager
-genome_biology:
-- name: Bastien Llamas
-  desc: | 
-    Head of Genome Biology <br>
-    Bioinformatics, Genomics, Evolutionary Medicine
-  img: /assets/img/bastien-llamas.png
-  website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
-  github: https://github.com/bastienllamas
-  twitter: http://twitter.com/DNATimeTravel
-- name: Yassine Souilmi
-  desc: |
-    Postdoctoral Research Fellow <br>
-    Bioinformatics, Genomics, Evolutionary medicine
 bioinformatics:
 - name: Jimmy Breen
   desc: |
@@ -32,6 +19,22 @@ bioinformatics:
   desc: | 
     Head of Epigenetics <br>
     Bioinformatics, Epigenetics, Data Science
+- name: Katharine Brown
+  desc: |
+    Research Fellow <br>
+    Epidemiology, Public Health, Cardiovascular Disease
+- name: Liza Kretzschmar
+  desc: | 
+    Research Fellow <br>
+    Bioinformatics, Multi-Omics, Data Integration, Transcriptomics
+- name: Stevie Pederson
+  desc: | 
+    Research Fellow <br>
+    Bioinformatics, Transcriptomics, Data Science
+- name: Justine Clark
+  desc: |
+    Research Fellow <br>
+    Cancer
 - name: Holly Martin
   desc: |
     Graduate Bioinformatician <br>
@@ -40,15 +43,23 @@ bioinformatics:
   website: https://linktr.ee/hollyanitamartin
   twitter: https://twitter.com/_holly_martin_
   github: https://github.com/hollyanitamartin
-cancer:
-- name: Justine Clark
-  desc: Postdoctoral Research Fellow
-nigc:
-- name: Louise Lyons
-  desc: Senior Manager for Strategy and Policy
-- name: Amanda Richards-Satour
-  desc: Community Engagement Coordinator
 external:
+- name: Natasha Howard
+  desc: |
+    Associate Professor (UofA) and Platform Lead (SAHMRI) <br>
+    Implementation Science, Public Health, Epidemiology
+- name: Bastien Llamas
+  desc: | 
+    Associate Professor (UofA) <br>
+    Bioinformatics, Genomics, Ancient DNA, Evolutionary Medicine
+  img: /assets/img/bastien-llamas.png
+  website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
+  github: https://github.com/bastienllamas
+  twitter: http://twitter.com/DNATimeTravel
+- name: Yassine Souilmi
+  desc: |
+    Research Fellow <br>
+    Bioinformatics, Genomics, Evolutionary medicine
 - name: Hardip Patel
   desc: |
     Bioinformatics Lead, National Centre for Indigenous Genomics, ANU 
@@ -57,3 +68,28 @@ external:
     Chief Technology Officer & Co-Founder, smrtr <br>
     Principal Consultant, Pacific Analytics <br>
     Head Bioinformatics & Statistics Research Group, University of Sydney
+students:
+- name: Rebecca Simpson
+  desc: |
+    PhD Candidate <br>
+    Epidemiology, Indigenous Health, Type 2 Diabetes
+- name: Sam Godwin
+  desc: |
+    PhD Candidate <br>
+    Bioinformatics, Genomics, Cardiovascular Disease
+nigc:
+- name: Louise Lyons
+  desc: |
+    Senior Manager for Strategy and Policy
+- name: Johanna Barclay
+  desc: |
+    General Manager, Australian Alliance for Indigenous Genomics (ALIGN)
+- name: Amanda Richards-Satour
+  desc: |
+    Community Engagement Coordinator
+- name: Annalee Stearne
+  desc: |
+    Operations Manager, Australian Alliance for Indigenous Genomics (ALIGN)
+- name: Emily McDonald
+  desc: |
+    Project Coordinator, Australian Alliance for Indigenous Genomics (ALIGN)
