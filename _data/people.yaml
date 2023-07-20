@@ -9,7 +9,7 @@ general:
 genome_biology:
 - name: Bastien Llamas
   desc: | 
-    Head of Genome Biology |
+    Head of Genome Biology <br>
     Bioinformatics, Genomics, Evolutionary Medicine
   img: /assets/img/bastien-llamas.png
   website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
