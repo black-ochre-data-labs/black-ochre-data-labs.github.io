@@ -8,13 +8,10 @@ layout: team
 <html>
   <body>
 {% include list-circles.html items=site.data.people.general %}
-  <h1 class="center">Genome Biology</h1>
-{% include list-circles.html items=site.data.people.genome_biology %} 
-  <h1 class="center">Bioinformatics</h1>
-{% include list-circles.html items=site.data.people.bioinformatics %}
-  <h1 class="center">Cancer</h1>
-{% include list-circles.html items=site.data.people.cancer %}
+{% include list-circles.html items=site.data.people.bioinformatics %} 
+{% include list-circles.html items=site.data.people.external %}
+{% include list-circles.html items=site.data.people.students %}
   <h1 class="center">National Indigenous Genomics Network</h1>
-{% include list-circles.html items=site.data.people.nigc %}
+{% include list-circles.html items=site.data.people.network %}
   </body>
 </html>
