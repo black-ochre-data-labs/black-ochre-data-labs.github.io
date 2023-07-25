@@ -4,18 +4,18 @@ general:
   desc: | 
     Director, Black Ochre Data Labs <br>
     Director, National Centre for Indigenous Genomics (ANU) 
-  img: /assets/img/team/alex-brown.png
+ # img: /assets/img/team/alex-brown.png
 - name: Kaashifah Bruce
   desc: |
     Program Manager <br>
     Indigenous Genomics (TKI/ANU)
-  img: /assets/img/team/kaashifah-bruce.png
+# img: /assets/img/team/kaashifah-bruce.png
 bioinformatics:
 - name: Jimmy Breen
   desc: |
     Chief Data Scientist <br>
     Bioinformatics, Genomics, Data Science
-  img: /assets/img/team/jimmy-breen.png
+  # img: /assets/img/team/jimmy-breen.png
   website: https://www.telethonkids.org.au/contact-us/our-people/b/jimmy-breen/
   twitter: https://twitter.com/wessidepraxis
   github: https://github.com/jimmybgammyknee
@@ -23,32 +23,32 @@ bioinformatics:
   desc: | 
     Head of Epigenetics <br>
     Bioinformatics, Epigenetics, Data Science
-  img: /assets/img/team/sam-buckberry.png
+  # img: /assets/img/team/sam-buckberry.png
 - name: Katharine Brown
   desc: |
     Research Fellow <br>
     Epidemiology, Public Health, Cardiovascular Disease
-  img: /assets/img/team/katharine-brown.png
+  # img: /assets/img/team/katharine-brown.png
 - name: Liza Kretzschmar
   desc: | 
     Research Fellow <br>
     Bioinformatics, Multi-Omics, Data Integration, Transcriptomics
-  img: /assets/img/team/liza-kretzschmar.png
+  # img: /assets/img/team/liza-kretzschmar.png
 - name: Stevie Pederson
   desc: | 
     Research Fellow <br>
     Bioinformatics, Transcriptomics, Data Science
-  img: /assets/img/team/stevie-pederson.png
+  # img: /assets/img/team/stevie-pederson.png
 - name: Justine Clark
   desc: |
     Research Fellow <br>
     Cancer
-  img: /assets/img/team/justine-clark.png
+  # img: /assets/img/team/justine-clark.png
 - name: Holly Martin
   desc: |
     Graduate Bioinformatician <br>
     Bioinformatics, Genomics, Visualisation
-  img: /assets/img/team/holly-martin.png
+  # img: /assets/img/team/holly-martin.png
   website: https://linktr.ee/hollyanitamartin
   twitter: https://twitter.com/_holly_martin_
   github: https://github.com/hollyanitamartin
@@ -57,12 +57,12 @@ external:
   desc: |
     Associate Professor (UofA) and Platform Lead (SAHMRI) <br>
     Implementation Science, Public Health, Epidemiology
-  img: /assets/img/team/natasha-howard.png
+  # img: /assets/img/team/natasha-howard.png
 - name: Bastien Llamas
   desc: | 
     Associate Professor (UofA) <br>
     Bioinformatics, Genomics, Ancient DNA, Evolutionary Medicine
-  img: /assets/img/team/bastien-llamas.png
+  # img: /assets/img/team/bastien-llamas.png
   website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
   github: https://github.com/bastienllamas
   twitter: http://twitter.com/DNATimeTravel
@@ -70,44 +70,44 @@ external:
   desc: |
     Research Fellow <br>
     Bioinformatics, Genomics, Evolutionary medicine
-  img: /assets/img/team/yassine-souilmi.png
+  # img: /assets/img/team/yassine-souilmi.png
 - name: Hardip Patel
   desc: |
     Bioinformatics Lead, National Centre for Indigenous Genomics, ANU
-  img: /assets/img/team/hardip-patel.png
+  # img: /assets/img/team/hardip-patel.png
 - name: Boris Guennewig
   desc: |
     Chief Technology Officer & Co-Founder, smrtr <br>
     Principal Consultant, Pacific Analytics <br>
     Head Bioinformatics & Statistics Research Group, University of Sydney
-  img: /assets/img/team/boris-guennewig.png
+  # img: /assets/img/team/boris-guennewig.png
 students:
 - name: Rebecca Simpson
   desc: |
     PhD Candidate <br>
     Epidemiology, Indigenous Health, Type 2 Diabetes
-  img: /assets/img/team/rebecca-simpson.png
+  # img: /assets/img/team/rebecca-simpson.png
 - name: Sam Godwin
   desc: |
     PhD Candidate <br>
     Bioinformatics, Genomics, Cardiovascular Disease
-  img: /assets/img/team/sam-godwin.png
+  # img: /assets/img/team/sam-godwin.png
 network:
 - name: Louise Lyons
   desc: |
     Senior Manager for Strategy and Policy
-  img: /assets/img/team/louise-lyons.png
+  # img: /assets/img/team/louise-lyons.png
 - name: Johanna Barclay
   desc: |
     General Manager, Australian Alliance for Indigenous Genomics (ALIGN)
-  img: /assets/img/team/johanna-barclay.png
+  # img: /assets/img/team/johanna-barclay.png
 - name: Amanda Richards-Satour
   desc: |
     Community Engagement Coordinator
 - name: Annalee Stearne
   desc: |
     Operations Manager, Australian Alliance for Indigenous Genomics (ALIGN)
-  img: /assets/img/team/annalee-stearne.png
+  # img: /assets/img/team/annalee-stearne.png
 - name: Emily McDonald
   desc: |
     Project Coordinator, Australian Alliance for Indigenous Genomics (ALIGN)
