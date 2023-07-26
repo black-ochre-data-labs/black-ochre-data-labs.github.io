@@ -5,13 +5,13 @@ general:
     Director, Black Ochre Data Labs <br>
     Director, National Centre for Indigenous Genomics (ANU)
   email: alex.brown@anu.edu.au
- img: /assets/img/team/alex-brown.png
+  img: /assets/img/team/alex-brown.png
 - name: Kaashifah Bruce
   desc: |
     Program Manager <br>
     Indigenous Genomics (TKI/ANU)
   email: kaashifah.bruce@telethonkids.org.au
-img: /assets/img/team/kaashifah-bruce.png
+  img: /assets/img/team/kaashifah-bruce.png
 bioinformatics:
 - name: Jimmy Breen
   desc: |
