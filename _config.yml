@@ -134,7 +134,7 @@ navbar-text-col: "#3d3d40" # Navbar text colour: grey
 navbar-border-col: "#BBBBBB" # Navbar border colour: matching navbar-col
 page-col: "#F7F4F3" # Page background colour: overrridden by footer-img
 text-col: "#404040" # Almost black
-link-col: "#008AFF" # Blue
+link-col: "#626c7d" # grey-Blue
 hover-col: "#0085A1" # Darker blue
 footer-col: "#ebedeb" # overriden by footer-img
 footer-grad: "to bottom right, #BBBBBB, #737373, #3d3d40"
