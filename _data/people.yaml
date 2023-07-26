@@ -2,66 +2,129 @@
 general:
 - name: Professor Alex Brown
   desc: | 
-    Director, Black Ochre Data Labs |
-    Director, National Centre for Indigenous Genomics (ANU) 
+    Director, Black Ochre Data Labs <br>
+    Director, National Centre for Indigenous Genomics (ANU)
+  email: alex.brown@anu.edu.au
+  img: /assets/img/team/alex-brown.png
 - name: Kaashifah Bruce
-  desc: ANU/TKI Program Manager
-genome_biology:
-- name: Bastien Llamas
-  desc: | 
-    Head of Genome Biology |
-    Bioinformatics, Genomics, Evolutionary Medicine
-  img: /assets/img/bastien-llamas.png
-  website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
-  github: https://github.com/bastienllamas
-  twitter: http://twitter.com/DNATimeTravel
-- name: Yassine Souilmi
   desc: |
-    Postdoctoral Research Fellow |
-    Bioinformatics, Genomics, Evolutionary medicine
+    Program Manager <br>
+    Indigenous Genomics (TKI/ANU)
+  email: kaashifah.bruce@telethonkids.org.au
+  img: /assets/img/team/kaashifah-bruce.png
 bioinformatics:
 - name: Jimmy Breen
   desc: |
-    Chief Data Scientist |
+    Chief Data Scientist <br>
     Bioinformatics, Genomics, Data Science
-  img: /assets/img/jimmy-breen.png
+  img: /assets/img/team/jimmy-breen.png
   website: https://www.telethonkids.org.au/contact-us/our-people/b/jimmy-breen/
-  twitter: https://twitter.com/wessidepraxis
+  email: jimmy.breen@telethonkids.org.au
   github: https://github.com/jimmybgammyknee
 - name: Sam Buckberry 
   desc: | 
-    Head of Epigenetics |
+    Head of Epigenetics <br>
     Bioinformatics, Epigenetics, Data Science
+  email: sam.buckbery@telethonkids.org.au
+  img: /assets/img/team/sam-buckberry.png
+- name: Katharine Brown
+  desc: |
+    Research Fellow <br>
+    Epidemiology, Public Health, Cardiovascular Disease
+  email: katharine.brown@telethonkids.org.au
+  img: /assets/img/team/katharine-brown.png
+- name: Liza Kretzschmar
+  desc: | 
+    Research Fellow <br>
+    Bioinformatics, Multi-Omics, Data Integration, Transcriptomics
+  email: liza.kretzschmar@telethonkids.org.au
+  img: /assets/img/team/liza-kretzschmar.png
+- name: Stevie Pederson
+  desc: | 
+    Research Fellow <br>
+    Bioinformatics, Transcriptomics, Data Science
+  email: stephen.pederson@telethonkids.org.au
+  img: /assets/img/team/stevie-pederson.png
+- name: Justine Clark
+  desc: |
+    Research Fellow <br>
+    Cancer
+  email: justine.clark@telethonkids.org.au
+  img: /assets/img/team/justine-clark.png
 - name: Holly Martin
   desc: |
-    Graduate Bioinformatician |
+    Graduate Bioinformatician <br>
     Bioinformatics, Genomics, Visualisation
-  img: /assets/img/holly-martin.png
+  img: /assets/img/team/holly-martin.png
   website: https://linktr.ee/hollyanitamartin
-  twitter: https://twitter.com/_holly_martin_
-  github: https://github.com/hollyanitamartin
-cancer:
-- name: Justine Clark
-  desc: Postdoctoral Research Fellow
-nigc:
-- name: Louise Lyons
-  desc: Senior Manager for Strategy and Policy
-- name: Amanda Richards-Satour
-  desc: Community engagement coordinator
-members:
-- name: Full Name
-  subtitle: Job title
-  desc: description of job role, experience, and role within the group in more detail.
-  img: /assets/img/default.png
-  website: https://www.telethonkids.org.au/
-  twitter: https://twitter.com/
-  github: https://github.com/
+  email: holly.martin@telethonkids.org.au
 external:
+- name: Natasha Howard
+  desc: |
+    Associate Professor (UofA) and Platform Lead (SAHMRI) <br>
+    Implementation Science, Public Health, Epidemiology
+  email: natasha.howard@sahmri.com
+  img: /assets/img/team/natasha-howard.png
+- name: Bastien Llamas
+  desc: | 
+    Associate Professor (UofA) <br>
+    Bioinformatics, Genomics, Evolutionary Medicine
+  email: bastien.llamas@adelaide.edu.au
+  img: /assets/img/team/bastien-llamas.png
+  website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
+  twitter: http://twitter.com/DNATimeTravel
+- name: Yassine Souilmi
+  desc: |
+    Research Fellow <br>
+    Bioinformatics, Genomics, Evolutionary medicine
+  email: yassine.souilmi@adelaide.edu.au
+  img: /assets/img/team/yassine-souilmi.png
 - name: Hardip Patel
   desc: |
-    Bioinformatics Lead, National Centre for Indigenous Genomics, ANU 
+    Bioinformatics Leadd <br> National Centre for Indigenous Genomics (ANU)
+  email: hardip.patel@anu.edu.au
+  img: /assets/img/team/hardip-patel.png
 - name: Boris Guennewig
   desc: |
-    Chief Technology Officer & Co-Founder, smrtr | 
-    Principal Consultant, Pacific Analytics |
+    Chief Technology Officer & Co-Founder, smrtr <br>
+    Principal Consultant, Pacific Analytics <br>
     Head Bioinformatics & Statistics Research Group, University of Sydney
+  email: boris.guennewig@sydney.edu.au
+  img: /assets/img/team/boris-guennewig.png
+students:
+- name: Rebecca Simpson
+  desc: |
+    PhD Candidate <br>
+    Epidemiology, Indigenous Health, Type 2 Diabetes
+  email: rebecca.simpson@sahmri.com
+  img: /assets/img/team/rebecca-simpson.png
+- name: Sam Godwin
+  desc: |
+    PhD Candidate <br>
+    Bioinformatics, Genomics, Cardiovascular Disease
+  email: samuel.godwin@adelaide.edu.au
+  img: /assets/img/team/sam-godwin.png
+network:
+- name: Louise Lyons
+  desc: |
+    Senior Manager for Strategy and Policy
+  email: louise.lyons@telethonkids.org.au
+  img: /assets/img/team/louise-lyons.png
+- name: Johanna Barclay
+  desc: |
+    General Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
+  email: johanna.barclay@telethonkids.org.au
+  img: /assets/img/team/johanna-barclay.png
+- name: Amanda Richards-Satour
+  desc: |
+    Community Engagement Coordinator
+  email: amanda.richards-satour@telethonkids.org.au
+- name: Annalee Stearne
+  desc: |
+    Operations Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
+  email: annalee.stearne@telethonkids.org.au
+  img: /assets/img/team/annalee-stearne.png
+- name: Emily McDonald
+  desc: |
+    Project Coordinator <br> Australian Alliance for Indigenous Genomics (ALIGN)
+  email: emily.mcdonald@telethonkids.org.au
