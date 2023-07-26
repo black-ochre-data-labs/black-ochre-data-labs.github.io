@@ -4,7 +4,7 @@ general:
   desc: | 
     Director, Black Ochre Data Labs <br>
     Director, National Centre for Indigenous Genomics (ANU)
-  email: alex.brown@anu.edu.au
+  email: "alex.brown@anu.edu.au"
  # img: /assets/img/team/alex-brown.png
 - name: Kaashifah Bruce
   desc: |
