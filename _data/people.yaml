@@ -48,8 +48,10 @@ bioinformatics:
 - name: Justine Clark
   desc: |
     Research Fellow <br>
-    Cancer
+    Precision Cancer
   email: justine.clark@telethonkids.org.au
+  linkedin: https://www.linkedin.com/in/justine-clark-phd-80a170224/
+  twitter: justineclark_
   img: /assets/img/team/justine-clark.png
 - name: Holly Martin
   desc: |
@@ -72,7 +74,6 @@ external:
   email: bastien.llamas@adelaide.edu.au
   img: /assets/img/team/bastien-llamas.png
   website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
-  twitter: http://twitter.com/DNATimeTravel
 - name: Yassine Souilmi
   desc: |
     Research Fellow <br>
@@ -81,9 +82,14 @@ external:
   img: /assets/img/team/yassine-souilmi.png
 - name: Hardip Patel
   desc: |
-    Bioinformatics Leadd <br> National Centre for Indigenous Genomics (ANU)
+    Bioinformatics Lead <br> National Centre for Indigenous Genomics (ANU)
   email: hardip.patel@anu.edu.au
   img: /assets/img/team/hardip-patel.png
+- name: Azure Hermes
+  desc: |
+    Deputy Director <br>
+    National Centre for Indigenous Genomics (ANU)
+  img: /assets/img/team/azure-hermes.png
 - name: Boris Guennewig
   desc: |
     Chief Technology Officer & Co-Founder, smrtr <br>
@@ -104,6 +110,12 @@ students:
     Bioinformatics, Genomics, Cardiovascular Disease
   email: samuel.godwin@adelaide.edu.au
   img: /assets/img/team/sam-godwin.png
+- name: Dawn Lewis
+  desc: |
+    PhD Candidate <br>
+    Ancient DNA, Indigenous Genomics
+  email: dawn.lewis@adelaide.edu.au
+  img: /assets/img/team/dawn-lewis.png
 network:
 - name: Louise Lyons
   desc: |
