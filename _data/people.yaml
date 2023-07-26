@@ -68,7 +68,7 @@ external:
 - name: Bastien Llamas
   desc: | 
     Associate Professor (UofA) <br>
-    Bioinformatics, Genomics, Ancient DNA, Evolutionary Medicine
+    Bioinformatics, Genomics, Evolutionary Medicine
   email: bastien.llamas@adelaide.edu.au
   # img: /assets/img/team/bastien-llamas.png
   website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
@@ -112,7 +112,7 @@ network:
   # img: /assets/img/team/louise-lyons.png
 - name: Johanna Barclay
   desc: |
-    General Manager, Australian Alliance for Indigenous Genomics (ALIGN)
+    General Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
   email: johanna.barclay@telethonkids.org.au
   # img: /assets/img/team/johanna-barclay.png
 - name: Amanda Richards-Satour
@@ -121,10 +121,10 @@ network:
   email: amanda.richards-satour@telethonkids.org.au
 - name: Annalee Stearne
   desc: |
-    Operations Manager, Australian Alliance for Indigenous Genomics (ALIGN)
+    Operations Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
   email: annalee.stearne@telethonkids.org.au
   # img: /assets/img/team/annalee-stearne.png
 - name: Emily McDonald
   desc: |
-    Project Coordinator, Australian Alliance for Indigenous Genomics (ALIGN)
+    Project Coordinator <br> Australian Alliance for Indigenous Genomics (ALIGN)
   email: emily.mcdonald@telethonkids.org.au
