@@ -4,7 +4,7 @@ general:
   desc: | 
     Director, Black Ochre Data Labs <br>
     Director, National Centre for Indigenous Genomics (ANU)
-  email: "alex.brown@anu.edu.au"
+  email: alex.brown@anu.edu.au
  # img: /assets/img/team/alex-brown.png
 - name: Kaashifah Bruce
   desc: |
@@ -81,7 +81,7 @@ external:
   # img: /assets/img/team/yassine-souilmi.png
 - name: Hardip Patel
   desc: |
-    Bioinformatics Lead, National Centre for Indigenous Genomics, ANU
+    Bioinformatics Leadd <br> National Centre for Indigenous Genomics (ANU)
   email: hardip.patel@anu.edu.au
   # img: /assets/img/team/hardip-patel.png
 - name: Boris Guennewig
