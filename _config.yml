@@ -26,8 +26,9 @@ navbar-links:
   Consulting: "consulting"
   Latest News: "blog"
   Affiliations:
-    - Telethon Kids Institute: "https://www.telethonkids.org.au/"
-    - Australian National University: "https://www.anu.edu.au/"
+    - Telethon Kids Institute: "https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/"
+    - Australian National University: "https://ncig.anu.edu.au/"
+    - ALIGN: "https://indigenousgenomics.com.au/"
 
 ################
 # --- Logo --- #
