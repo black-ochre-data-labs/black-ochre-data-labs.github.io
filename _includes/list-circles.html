@@ -18,6 +18,17 @@
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
       <div class="item-links">
+      {% if item.email %}
+          <a class="list-inline-item">
+    <a href="mailto:{{ item.email }}" title="Email">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email</span>
+   </a>
+        </a>
+      {% endif %}
       {% if item.website %}
           <a class="list-inline-item">
         <a href="{{ item.website }}" title="Website">
@@ -48,17 +59,6 @@
         <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Twitter</span>
-   </a>
-        </a>
-        {% endif %}
-        {% if item.email %}
-          <a class="list-inline-item">
-    <a href="mailto:{{ item.email }}" title="Email">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Email</span>
    </a>
         </a>
         {% endif %}
