@@ -12,6 +12,10 @@ general:
     Indigenous Genomics (TKI/ANU)
   email: kaashifah.bruce@telethonkids.org.au
   img: /assets/img/team/kaashifah-bruce.png
+- name: Amanda Richards-Satour
+  desc: |
+    Community Engagement Coordinator
+  email: amanda.richards-satour@telethonkids.org.au
 bioinformatics:
 - name: Jimmy Breen
   desc: |
@@ -130,16 +134,8 @@ network:
     General Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
   email: johanna.barclay@telethonkids.org.au
   img: /assets/img/team/johanna-barclay.png
-- name: Amanda Richards-Satour
-  desc: |
-    Community Engagement Coordinator
-  email: amanda.richards-satour@telethonkids.org.au
 - name: Annalee Stearne
   desc: |
     Operations Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
   email: annalee.stearne@telethonkids.org.au
   img: /assets/img/team/annalee-stearne.png
-- name: Emily McDonald
-  desc: |
-    Project Coordinator <br> Australian Alliance for Indigenous Genomics (ALIGN)
-  email: emily.mcdonald@telethonkids.org.au
