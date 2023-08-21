@@ -24,6 +24,7 @@ navbar-links:
 #  Projects: "projects"
   Workshops: "workshops"
   Consulting: "consulting"
+  Publications: "publications"
   Latest News: "blog"
   Affiliations:
     - Telethon Kids Institute: "https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/"
