@@ -37,6 +37,8 @@ Jaya Shankar, A, Jadhao, S, Hoy, W, Foote, SJ, **Patel, HR**, Scaria, V, McMorra
 
 Jadhao, S, Hoy, W, Lee, S, **Patel, HR**, McMorran, BJ, Flower, RL & Nagaraj, SH 2022, ‘The genomic landscape of blood groups in Indigenous Australians in remote communities’, _Transfusion_, vol. 62, no. 5, pp. 1110–1120.
 
+Li Y, **Patel H**, Lin Y. Kmer2SNP: Reference-Free Heterozygous SNP Calling Using k-mer Frequency Distributions. Methods Mol Biol. 2022;2493:257-265. doi: 10.1007/978-1-0716-2293-3_16. PMID: 35751820.
+
 Liu, N, Sadlon, T, Wong, YY, **Pederson, S**, **Breen, J** & Barry, SC 2022, ‘3DFAACTS-SNP: using regulatory T cell-specific epigenomics data to uncover candidate mechanisms of type 1 diabetes (T1D) risk’, _Epigenetics & chromatin_, vol. 15, no. 1, p. 24.
 
 **McBride KF**, Howard NJ, Franks C, King V, Wade V, Dowling A, Rigney J, Burton N , Mitchell JA, Hillier S, Nicholls SJ, Paquet C, **Brown A**. Providing guideline-recommended preventive cardiovascular care to Aboriginal and Torres Strait Islander women and men. Australian Journal of Primary Health, 2022. DOI: 10.1071/PY22064
