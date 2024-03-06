@@ -60,13 +60,6 @@ bioinformatics:
   linkedin: https://www.linkedin.com/in/justine-clark-phd-80a170224/
   twitter: justineclark_
   img: /assets/img/team/justine-clark.png
-- name: Holly Massacci
-  desc: |
-    Graduate Bioinformatician <br>
-    Bioinformatics, Genomics, Visualisation
-  img: /assets/img/team/holly-martin.png
-  website: https://linktr.ee/hollymassacci
-  email: holly.massacci@telethonkids.org.au
 external:
 - name: Natasha Howard
   desc: |
@@ -124,6 +117,13 @@ students:
     Ancient DNA, Indigenous Genomics
   email: dawn.lewis@adelaide.edu.au
   img: /assets/img/team/dawn-lewis.png
+- name: Holly Massacci
+  desc: |
+    PhD Student <br>
+    Bioinformatics, Genomics, Visualisation
+  img: /assets/img/team/holly-martin.png
+  website: https://linktr.ee/hollymassacci
+  email: holly.massacci@telethonkids.org.au
 network:
 - name: Louise Lyons
   desc: |
