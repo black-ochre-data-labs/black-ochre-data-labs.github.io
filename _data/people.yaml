@@ -141,16 +141,16 @@ network:
   img: /assets/img/team/louise-lyons.png
 - name: Johanna Barclay
   desc: |
-    General Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
+    General Manager
   email: johanna.barclay@telethonkids.org.au
   img: /assets/img/team/johanna-barclay.png
 - name: Annalee Stearne
   desc: |
-    Operations Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
+    Operations Manager
   email: annalee.stearne@telethonkids.org.au
   img: /assets/img/team/annalee-stearne.png
 - name: Emily McDonald
   desc: |
-    Project Coordinator <br> Australian Alliance for Indigenous Genomics (ALIGN)
+    Project Coordinator
   email: emily.mcdonald@telethonkids.org.au
   img: /assets/img/team/emily-mcdonald.png
