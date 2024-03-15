@@ -12,6 +12,10 @@ general:
     Indigenous Genomics (TKI/ANU)
   email: kaashifah.bruce@telethonkids.org.au
   img: /assets/img/team/kaashifah-bruce.png
+- name: Rose Senesi
+  desc: |
+    Strategic Relationship and Engagement Manager
+  email: rose.senesi@telethonkids.org.au
 - name: Amanda Richards-Satour
   desc: |
     Community Engagement Coordinator
@@ -102,7 +106,7 @@ students:
 - name: Rebecca Simpson
   desc: |
     PhD Candidate <br>
-    Epidemiology, Indigenous Health, Type 2 Diabetes
+    Epidemiology, Indigenous Genomics, Type 2 Diabetes
   email: rebecca.simpson@sahmri.com
   img: /assets/img/team/rebecca-simpson.png
 - name: Sam Godwin
@@ -117,6 +121,11 @@ students:
     Ancient DNA, Indigenous Genomics
   email: dawn.lewis@adelaide.edu.au
   img: /assets/img/team/dawn-lewis.png
+- name: Sarah Munns
+  desc: |
+    PhD Student <br>
+    Indigenous Genomics, Epigenetics
+  email: sarah.munns@telethonkids.org.au
 - name: Holly Massacci
   desc: |
     PhD Student <br>
