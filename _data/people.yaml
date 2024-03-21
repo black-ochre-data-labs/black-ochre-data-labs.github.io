@@ -125,12 +125,13 @@ students:
   img: /assets/img/team/dawn-lewis.png
 - name: Sarah Munns
   desc: |
-    PhD Student <br>
+    PhD Candidate <br>
     Indigenous Genomics, Epigenetics
   email: sarah.munns@telethonkids.org.au
+  img: /assets/img/team/sarah-munns.png
 - name: Holly Massacci
   desc: |
-    PhD Student <br>
+    PhD Candidate <br>
     Bioinformatics, Genomics, Visualisation
   img: /assets/img/team/holly-martin.png
   website: https://linktr.ee/hollymassacci
