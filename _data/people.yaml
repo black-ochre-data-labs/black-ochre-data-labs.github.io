@@ -16,10 +16,12 @@ general:
   desc: |
     Strategic Relationship and Engagement Manager
   email: rose.senesi@telethonkids.org.au
+  img: /assets/img/team/rose-senesi.png
 - name: Amanda Richards-Satour
   desc: |
     Community Engagement Coordinator
   email: amanda.richards-satour@telethonkids.org.au
+  img: /assets/img/team/amanda-richards-satour.png
 bioinformatics:
 - name: Jimmy Breen
   desc: |
