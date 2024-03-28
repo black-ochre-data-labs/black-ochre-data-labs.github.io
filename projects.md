@@ -4,7 +4,7 @@ title: Projects
 ---
 
 # Our story
-At Black Ochre Data Labs our purpose is to reduce healthy inequality through the power of genomics. We are working towards this goal through funded research projects and by building national partnerships in Indigenous genomics. Our primary areas of focus are: Data Sciences, Genetic Variation, Multiomics of Complex Disease and Integrated Genomics Healthcare. Across each of these focus areas is a dedication to governance, community engagement, delivering benefit to communities and our responsibility to the communities and participants that we are so honoured to work with. 
+At Black Ochre Data Labs our purpose is to reduce health inequality through the power of genomics. We are working towards this goal through funded research projects and by building national partnerships in Indigenous genomics. Our primary areas of focus are: Data Sciences, Genetic Variation, Multiomics of Complex Disease and Integrated Genomics Healthcare. Across each of these focus areas is a dedication to governance, community engagement, delivering benefit to communities and our responsibility to the communities and participants that we are so honoured to work with. 
 
 ![Our Work](assets/img/BODL_bigpicture.png)
 
