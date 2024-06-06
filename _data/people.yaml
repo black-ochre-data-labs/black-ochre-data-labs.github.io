@@ -66,6 +66,18 @@ bioinformatics:
   linkedin: https://www.linkedin.com/in/justine-clark-phd-80a170224/
   twitter: justineclark_
   img: /assets/img/team/justine-clark.png
+- name: Alastair Ludington
+  desc: |
+    Bioinformatics Engineer
+  email: alastair.ludington@telethonkids.org.au
+  img: /assets/img/team/default.png
+- name: Adam Heterick
+  desc: |
+    Bioinformatics Officer <br>
+    Indigenous Data Sovereignty
+  email: Adam.Heterick@telethonkids.org.au
+  linkedin: https://www.linkedin.com/in/adam-heterick-849970119/
+  img: /assets/img/team/adam-heterick.png
 external:
 - name: Natasha Howard
   desc: |
@@ -157,3 +169,9 @@ network:
     Project Coordinator
   email: emily.mcdonald@telethonkids.org.au
   img: /assets/img/team/emily-mcdonald.png
+- name: Beth Wadling
+  desc: |
+    Genetic Counselor
+  linkedin: https://www.linkedin.com/in/bethanywadling/
+  email: bethany.wadling@telethonkids.org.au
+  img: /assets/img/team/beth-wadling.png
