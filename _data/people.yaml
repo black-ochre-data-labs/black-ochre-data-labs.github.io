@@ -12,6 +12,16 @@ general:
     Indigenous Genomics (TKI/ANU)
   email: kaashifah.bruce@telethonkids.org.au
   img: /assets/img/team/kaashifah-bruce.png
+- name: Rose Senesi
+  desc: |
+    Strategic Relationship and Engagement Manager
+  email: rose.senesi@telethonkids.org.au
+  img: /assets/img/team/rose-senesi.png
+- name: Amanda Richards-Satour
+  desc: |
+    Community Engagement Coordinator
+  email: amanda.richards-satour@telethonkids.org.au
+  img: /assets/img/team/amanda-richards-satour.png
 bioinformatics:
 - name: Jimmy Breen
   desc: |
@@ -25,7 +35,8 @@ bioinformatics:
   desc: | 
     Head of Epigenetics <br>
     Bioinformatics, Epigenetics, Data Science
-  email: sam.buckbery@telethonkids.org.au
+  email: sam.buckberry@telethonkids.org.au
+  website: https://sambuckberry.me/
   img: /assets/img/team/sam-buckberry.png
 - name: Katharine Brown
   desc: |
@@ -55,13 +66,18 @@ bioinformatics:
   linkedin: https://www.linkedin.com/in/justine-clark-phd-80a170224/
   twitter: justineclark_
   img: /assets/img/team/justine-clark.png
-- name: Holly Martin
+- name: Alastair Ludington
   desc: |
-    Graduate Bioinformatician <br>
-    Bioinformatics, Genomics, Visualisation
-  img: /assets/img/team/holly-martin.png
-  website: https://linktr.ee/hollyanitamartin
-  email: holly.martin@telethonkids.org.au
+    Bioinformatics Engineer
+  email: alastair.ludington@telethonkids.org.au
+  img: /assets/img/team/default.png
+- name: Adam Heterick
+  desc: |
+    Bioinformatics Officer <br>
+    Indigenous Data Sovereignty
+  email: Adam.Heterick@telethonkids.org.au
+  linkedin: https://www.linkedin.com/in/adam-heterick-849970119/
+  img: /assets/img/team/adam-heterick.png
 external:
 - name: Natasha Howard
   desc: |
@@ -75,7 +91,8 @@ external:
     Bioinformatics, Genomics, Evolutionary Medicine
   email: bastien.llamas@adelaide.edu.au
   img: /assets/img/team/bastien-llamas.png
-  website: https://www.telethonkids.org.au/contact-us/our-people/l/associate-professor-bastien-llamas/
+  website: https://www.adelaide.edu.au/directory/bastien.llamas
+  twitter: DNATimeTravel
 - name: Yassine Souilmi
   desc: |
     Research Fellow <br>
@@ -103,7 +120,7 @@ students:
 - name: Rebecca Simpson
   desc: |
     PhD Candidate <br>
-    Epidemiology, Indigenous Health, Type 2 Diabetes
+    Bioinformatics, Genomics, Type 2 Diabetes
   email: rebecca.simpson@sahmri.com
   img: /assets/img/team/rebecca-simpson.png
 - name: Sam Godwin
@@ -115,9 +132,22 @@ students:
 - name: Dawn Lewis
   desc: |
     PhD Candidate <br>
-    Ancient DNA, Indigenous Genomics
+    Ancient DNA, Genomics, Environmental DNA
   email: dawn.lewis@adelaide.edu.au
   img: /assets/img/team/dawn-lewis.png
+- name: Sarah Munns
+  desc: |
+    PhD Candidate <br>
+    Bioinformatics, Genomics, Epigenetics
+  email: sarah.munns@telethonkids.org.au
+  img: /assets/img/team/sarah-munns.png
+- name: Holly Massacci
+  desc: |
+    PhD Candidate <br>
+    Bioinformatics, Genomics, Visualisation
+  img: /assets/img/team/holly-martin.png
+  website: https://linktr.ee/hollymassacci
+  email: holly.massacci@telethonkids.org.au
 network:
 - name: Louise Lyons
   desc: |
@@ -126,19 +156,22 @@ network:
   img: /assets/img/team/louise-lyons.png
 - name: Johanna Barclay
   desc: |
-    General Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
+    General Manager
   email: johanna.barclay@telethonkids.org.au
   img: /assets/img/team/johanna-barclay.png
-- name: Amanda Richards-Satour
-  desc: |
-    Community Engagement Coordinator
-  email: amanda.richards-satour@telethonkids.org.au
 - name: Annalee Stearne
   desc: |
-    Operations Manager <br> Australian Alliance for Indigenous Genomics (ALIGN)
+    Operations Manager
   email: annalee.stearne@telethonkids.org.au
   img: /assets/img/team/annalee-stearne.png
 - name: Emily McDonald
   desc: |
-    Project Coordinator <br> Australian Alliance for Indigenous Genomics (ALIGN)
+    Project Coordinator
   email: emily.mcdonald@telethonkids.org.au
+  img: /assets/img/team/emily-mcdonald.png
+- name: Beth Wadling
+  desc: |
+    Genetic Counselor
+  linkedin: https://www.linkedin.com/in/bethanywadling/
+  email: bethany.wadling@telethonkids.org.au
+  img: /assets/img/team/beth-wadling.png

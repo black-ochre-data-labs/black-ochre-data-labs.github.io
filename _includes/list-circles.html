@@ -18,6 +18,17 @@
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
       <div class="item-links">
+      {% if item.email %}
+          <a class="list-inline-item">
+    <a href="mailto:{{ item.email }}" title="Email">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email</span>
+   </a>
+        </a>
+      {% endif %}
       {% if item.website %}
           <a class="list-inline-item">
         <a href="{{ item.website }}" title="Website">
@@ -51,14 +62,14 @@
    </a>
         </a>
         {% endif %}
-        {% if item.email %}
+        {% if item.linkedin %}
           <a class="list-inline-item">
-    <a href="mailto:{{ item.email }}" title="Email">
+    <a href="{{ item.linkedin }}" title="LinkedIn">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
       </span>
-      <span class="sr-only">Email</span>
+      <span class="sr-only">LinkedIn</span>
    </a>
         </a>
         {% endif %}

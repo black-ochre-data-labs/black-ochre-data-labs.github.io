@@ -1223,6 +1223,7 @@ pre {
 
 .list-circles-item .item-links {
   margin-top: 5px;
+  vertical-align: bottom;
 }
 
 .list-circles-item .item-link {
