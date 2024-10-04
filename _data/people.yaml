@@ -164,14 +164,15 @@ network:
     Operations Manager
   email: annalee.stearne@telethonkids.org.au
   img: /assets/img/team/annalee-stearne.png
-- name: Emily McDonald
-  desc: |
-    Project Coordinator
-  email: emily.mcdonald@telethonkids.org.au
-  img: /assets/img/team/emily-mcdonald.png
 - name: Beth Wadling
   desc: |
     Genetic Counselor
   linkedin: https://www.linkedin.com/in/bethanywadling/
   email: bethany.wadling@telethonkids.org.au
   img: /assets/img/team/beth-wadling.png
+former:
+- name: Emily McDonald
+  desc: |
+    Project Coordinator
+  email: emily.mcdonald@telethonkids.org.au
+  img: /assets/img/team/emily-mcdonald.png
