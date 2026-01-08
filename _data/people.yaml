@@ -10,72 +10,64 @@ general:
   desc: |
     Program Manager <br>
     Indigenous Genomics (TKI/ANU)
-  email: kaashifah.bruce@telethonkids.org.au
+  email: kaashifah.bruce@thekids.org.au
   img: /assets/img/team/kaashifah-bruce.png
 - name: Rose Senesi
   desc: |
     Strategic Relationship and Engagement Manager
-  email: rose.senesi@telethonkids.org.au
+  email: rose.senesi@thekids.org.au
   img: /assets/img/team/rose-senesi.png
-- name: Amanda Richards-Satour
+- name: Maxine Gross
   desc: |
-    Community Engagement Coordinator
-  email: amanda.richards-satour@telethonkids.org.au
-  img: /assets/img/team/amanda-richards-satour.png
+      NHMRC CRE Operations Manager
+  email: maxine.gross@thekids.org.au
+  img: /assets/img/team/maxine-gross.png
 bioinformatics:
 - name: Jimmy Breen
   desc: |
     Chief Data Scientist <br>
     Bioinformatics, Genomics, Data Science
   img: /assets/img/team/jimmy-breen.png
-  website: https://www.telethonkids.org.au/contact-us/our-people/b/jimmy-breen/
-  email: jimmy.breen@telethonkids.org.au
+  website: https://www.thekids.org.au/contact-us/our-people/b/jimmy-breen/
+  email: jimmy.breen@thekids.org.au
   github: https://github.com/jimmybgammyknee
 - name: Sam Buckberry 
   desc: | 
     Head of Epigenetics <br>
     Bioinformatics, Epigenetics, Data Science
-  email: sam.buckberry@telethonkids.org.au
+  email: sam.buckberry@thekids.org.au
   website: https://sambuckberry.me/
   img: /assets/img/team/sam-buckberry.png
 - name: Katharine Brown
   desc: |
     Research Fellow <br>
     Epidemiology, Public Health, Cardiovascular Disease
-  email: katharine.brown@telethonkids.org.au
+  email: katharine.brown@thekids.org.au
   img: /assets/img/team/katharine-brown.png
 - name: Liza Kretzschmar
   desc: | 
     Research Fellow <br>
     Bioinformatics, Multi-Omics, Data Integration, Transcriptomics
-  email: liza.kretzschmar@telethonkids.org.au
+  email: liza.kretzschmar@thekids.org.au
   img: /assets/img/team/liza-kretzschmar.png
 - name: Stevie Pederson
   desc: | 
     Research Fellow <br>
     Bioinformatics, Transcriptomics, Data Science
-  email: stephen.pederson@telethonkids.org.au
-  website: https://www.telethonkids.org.au/contact-us/our-people/p/stephen-stevie-pederson/
+  email: stephen.pederson@thekids.org.au
+  website: https://www.thekids.org.au/contact-us/our-people/p/stephen-stevie-pederson/
   github: https://github.com/smped
   img: /assets/img/team/stevie-pederson.png
-- name: Justine Clark
-  desc: |
-    Research Fellow <br>
-    Precision Cancer
-  email: justine.clark@telethonkids.org.au
-  linkedin: https://www.linkedin.com/in/justine-clark-phd-80a170224/
-  twitter: justineclark_
-  img: /assets/img/team/justine-clark.png
 - name: Alastair Ludington
   desc: |
     Bioinformatics Engineer
-  email: alastair.ludington@telethonkids.org.au
+  email: alastair.ludington@thekids.org.au
   img: /assets/img/team/default.png
 - name: Adam Heterick
   desc: |
     Bioinformatics Officer <br>
     Indigenous Data Sovereignty
-  email: Adam.Heterick@telethonkids.org.au
+  email: Adam.Heterick@thekids.org.au
   linkedin: https://www.linkedin.com/in/adam-heterick-849970119/
   img: /assets/img/team/adam-heterick.png
 external:
@@ -139,7 +131,7 @@ students:
   desc: |
     PhD Candidate <br>
     Bioinformatics, Genomics, Epigenetics
-  email: sarah.munns@telethonkids.org.au
+  email: sarah.munns@thekids.org.au
   img: /assets/img/team/sarah-munns.png
 - name: Holly Massacci
   desc: |
@@ -147,32 +139,57 @@ students:
     Bioinformatics, Genomics, Visualisation
   img: /assets/img/team/holly-martin.png
   website: https://linktr.ee/hollymassacci
-  email: holly.massacci@telethonkids.org.au
+  email: holly.massacci@thekids.org.au
+- name: Sehaj Dhariwal
+  desc: |
+    PhD Candidate <br>
+    Bioinformatics, Genomics, Machine Learning
+  email: sehaj.dhariwal@thekids.org.au
+  img: /assets/img/team/sehaj-dhariwal.png  
+- name: Allison Foster
+  desc: |
+    PhD Candidate <br>
+    Bioinformatics, Metabolomics, Lipidomics
+  email: allison.foster@thekids.org.au
+  img: /assets/img/team/allison-foster.png 
 network:
 - name: Louise Lyons
   desc: |
     Senior Manager for Strategy and Policy
-  email: louise.lyons@telethonkids.org.au
+  email: louise.lyons@thekids.org.au
   img: /assets/img/team/louise-lyons.png
 - name: Johanna Barclay
   desc: |
     General Manager
-  email: johanna.barclay@telethonkids.org.au
+  email: johanna.barclay@thekids.org.au
   img: /assets/img/team/johanna-barclay.png
 - name: Annalee Stearne
   desc: |
     Operations Manager
-  email: annalee.stearne@telethonkids.org.au
+  email: annalee.stearne@thekids.org.au
   img: /assets/img/team/annalee-stearne.png
 - name: Beth Wadling
   desc: |
-    Genetic Counselor
+    Genetic Counsellor
   linkedin: https://www.linkedin.com/in/bethanywadling/
-  email: bethany.wadling@telethonkids.org.au
+  email: bethany.wadling@thekids.org.au
   img: /assets/img/team/beth-wadling.png
 former:
 - name: Emily McDonald
   desc: |
     Project Coordinator
-  email: emily.mcdonald@telethonkids.org.au
+  email: emily.mcdonald@thekids.org.au
   img: /assets/img/team/emily-mcdonald.png
+- name: Amanda Richards-Satour
+  desc: |
+    Community Engagement Coordinator
+  email: amanda.richards-satour@thekids.org.au
+  img: /assets/img/team/amanda-richards-satour.png
+- name: Justine Clark
+  desc: |
+    Research Fellow <br>
+    Precision Cancer
+  email: justine.clark@thekids.org.au
+  linkedin: https://www.linkedin.com/in/justine-clark-phd-80a170224/
+  twitter: justineclark_
+  img: /assets/img/team/justine-clark.png
