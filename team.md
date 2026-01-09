@@ -13,5 +13,7 @@ layout: team
 {% include list-circles.html items=site.data.people.students %}
   <h1 class="center">Australian Alliance for Indigenous Genomics (ALIGN)</h1>
 {% include list-circles.html items=site.data.people.network %}
+  <h1 class="center">Former Group Members</h1>
+{% include list-circles.html items=site.data.people.former %}
   </body>
 </html>
