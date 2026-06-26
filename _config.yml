@@ -22,12 +22,12 @@ author: Black Ochre Data Labs
 navbar-links:
   Team: "team"
   Projects: "projects"
-  Workshops: "workshops"
-  Consulting: "consulting"
-  Publications: "publications"
+ # Workshops: "workshops"
+ # Consulting: "consulting"
+ # Publications: "publications"
 #  Latest News: "blog"
   Affiliations:
-    - Telethon Kids Institute: "https://www.telethonkids.org.au/our-research/chronic-and-severe-diseases/precision-health/indigenous-genomics/"
+    - The Kids Research Institute Australia: "https://www.thekids.org.au/"
     - Australian National University: "https://www.anu.edu.au/"
     - National Centre for Indigenous Genomics: "https://ncig.anu.edu.au/"
     - ALIGN: "https://indigenousgenomics.com.au/"
@@ -93,9 +93,9 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -274,7 +274,7 @@ defaults:
     values:
       layout: "post"
       comments: false  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
