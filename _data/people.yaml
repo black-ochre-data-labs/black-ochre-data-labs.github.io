@@ -9,7 +9,7 @@ general:
 - name: Kaashifah Bruce
   desc: |
     Program Manager <br>
-    Indigenous Genomics (TKI/ANU)
+    Indigenous Genomics
   email: kaashifah.bruce@thekids.org.au
   img: /assets/img/team/kaashifah-bruce.png
 - name: Rose Senesi
@@ -178,18 +178,13 @@ former:
 - name: Emily McDonald
   desc: |
     Project Coordinator
-  email: emily.mcdonald@thekids.org.au
   img: /assets/img/team/emily-mcdonald.png
 - name: Amanda Richards-Satour
   desc: |
     Community Engagement Coordinator
-  email: amanda.richards-satour@thekids.org.au
   img: /assets/img/team/amanda-richards-satour.png
 - name: Justine Clark
   desc: |
     Research Fellow <br>
     Precision Cancer
-  email: justine.clark@thekids.org.au
-  linkedin: https://www.linkedin.com/in/justine-clark-phd-80a170224/
-  twitter: justineclark_
   img: /assets/img/team/justine-clark.png
