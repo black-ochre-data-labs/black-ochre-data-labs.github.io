@@ -5,6 +5,7 @@ general:
     Director, Black Ochre Data Labs <br>
     Director, National Centre for Indigenous Genomics (ANU)
   email: alex.brown@anu.edu.au
+  website: https://www.thekids.org.au/contact-us/our-people/b/alex-brown/
   img: /assets/img/team/alex-brown.png
 - name: Kaashifah Bruce
   desc: |
@@ -19,7 +20,8 @@ general:
   img: /assets/img/team/rose-senesi.png
 - name: Maxine Gross
   desc: |
-      NHMRC CRE Operations Manager
+      Operations Manager <br>
+      Black Ochre Centre for Precision Health Data
   email: maxine.gross@thekids.org.au
   img: /assets/img/team/maxine-gross.png
 bioinformatics:
@@ -38,12 +40,6 @@ bioinformatics:
   email: sam.buckberry@thekids.org.au
   website: https://sambuckberry.me/
   img: /assets/img/team/sam-buckberry.png
-- name: Katharine Brown
-  desc: |
-    Research Fellow <br>
-    Epidemiology, Public Health, Cardiovascular Disease
-  email: katharine.brown@thekids.org.au
-  img: /assets/img/team/katharine-brown.png
 - name: Liza Kretzschmar
   desc: | 
     Research Fellow <br>
@@ -54,8 +50,8 @@ bioinformatics:
   desc: | 
     Research Fellow <br>
     Bioinformatics, Transcriptomics, Data Science
-  email: stephen.pederson@thekids.org.au
-  website: https://www.thekids.org.au/contact-us/our-people/p/stephen-stevie-pederson/
+  email: stevie.pederson@thekids.org.au
+  website: https://www.thekids.org.au/contact-us/our-people/p/stevie-pederson/
   github: https://github.com/smped
   img: /assets/img/team/stevie-pederson.png
 - name: Alastair Ludington
@@ -66,34 +62,56 @@ bioinformatics:
 - name: Adam Heterick
   desc: |
     Bioinformatics Officer <br>
-    Indigenous Data Sovereignty
+    Pharmacogenomics, Indigenous Data Sovereignty
   email: Adam.Heterick@thekids.org.au
-  linkedin: https://www.linkedin.com/in/adam-heterick-849970119/
   img: /assets/img/team/adam-heterick.png
-external:
+- name: Jonathan Carroll
+  desc: |
+    Bioinformatics Engineer
+  email: Jonathan.Carroll@thekids.org.au
+  website: https://jcarroll.com.au/
+  github: https://github.com/jonocarroll
+  mastodon: https://fosstodon.org/@jonocarroll
+  linkedin: https://www.linkedin.com/in/carrolljonathan/
+  img: /assets/img/team/jonathan-carroll.png
+- name: Sam Godwin
+  desc: |
+    Postdoctoral Researcher <br>
+    Bioinformatics, Genomics, Cardiovascular Disease
+  email: Sam.Godwin@thekids.org.au
+  img: /assets/img/team/sam-godwin.png
+epidemiology:
 - name: Natasha Howard
   desc: |
-    Associate Professor (UofA) and Platform Lead (SAHMRI) <br>
+    Principal Research Fellow <br>
     Implementation Science, Public Health, Epidemiology
-  email: natasha.howard@sahmri.com
+  email: natasha.howard@thekids.org.au
   img: /assets/img/team/natasha-howard.png
+- name: Katharine Brown
+  desc: |
+    Research Fellow <br>
+    Epidemiology, Public Health, Cardiovascular Disease
+  email: katharine.brown@thekids.org.au
+  img: /assets/img/team/katharine-brown.png
+- name: Mary Brushe
+  desc: |
+    Senior Research Officer <br>
+    Epidemiology
+  email: Mary.Brushe@thekids.org.au
+  website: https://www.thekids.org.au/contact-us/our-people/b/mary-brushe/
+  img: /assets/img/team/mary-brushe.png
+external:
 - name: Bastien Llamas
   desc: | 
-    Associate Professor (UofA) <br>
+    Associate Professor (Adelaide University) <br>
     Bioinformatics, Genomics, Evolutionary Medicine
   email: bastien.llamas@adelaide.edu.au
   img: /assets/img/team/bastien-llamas.png
-  website: https://www.adelaide.edu.au/directory/bastien.llamas
-  twitter: DNATimeTravel
-- name: Yassine Souilmi
-  desc: |
-    Research Fellow <br>
-    Bioinformatics, Genomics, Evolutionary medicine
-  email: yassine.souilmi@adelaide.edu.au
-  img: /assets/img/team/yassine-souilmi.png
+  website: https://researchers.adelaide.edu.au/profile/bastien.llamas
 - name: Hardip Patel
   desc: |
-    Bioinformatics Lead <br> National Centre for Indigenous Genomics (ANU)
+    Bioinformatics Lead <br> 
+    National Centre for Indigenous Genomics (ANU)
   email: hardip.patel@anu.edu.au
   img: /assets/img/team/hardip-patel.png
 - name: Azure Hermes
@@ -115,18 +133,6 @@ students:
     Bioinformatics, Genomics, Type 2 Diabetes
   email: rebecca.simpson@sahmri.com
   img: /assets/img/team/rebecca-simpson.png
-- name: Sam Godwin
-  desc: |
-    PhD Candidate <br>
-    Bioinformatics, Genomics, Cardiovascular Disease
-  email: samuel.godwin@adelaide.edu.au
-  img: /assets/img/team/sam-godwin.png
-- name: Dawn Lewis
-  desc: |
-    PhD Candidate <br>
-    Ancient DNA, Genomics, Environmental DNA
-  email: dawn.lewis@adelaide.edu.au
-  img: /assets/img/team/dawn-lewis.png
 - name: Sarah Munns
   desc: |
     PhD Candidate <br>
@@ -137,7 +143,7 @@ students:
   desc: |
     PhD Candidate <br>
     Bioinformatics, Genomics, Visualisation
-  img: /assets/img/team/holly-martin.png
+  img: /assets/img/team/holly-massacci.png
   website: https://linktr.ee/hollymassacci
   email: holly.massacci@thekids.org.au
 - name: Sehaj Dhariwal
@@ -185,6 +191,14 @@ former:
   img: /assets/img/team/amanda-richards-satour.png
 - name: Justine Clark
   desc: |
-    Research Fellow <br>
-    Precision Cancer
+    Research Fellow
   img: /assets/img/team/justine-clark.png
+- name: Dawn Lewis
+  desc: |
+    Former PhD student
+  email: dawn.lewis@adelaide.edu.au
+  img: /assets/img/team/dawn-lewis.png
+- name: Yassine Souilmi
+  desc: |
+    Research Fellow
+  img: /assets/img/team/yassine-souilmi.png
