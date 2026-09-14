@@ -2,15 +2,13 @@
 general:
 - name: Professor Alex Brown
   desc: | 
-    Director, Black Ochre Data Labs <br>
-    Director, National Centre for Indigenous Genomics (ANU)
+    Director
   email: alex.brown@anu.edu.au
   website: https://www.thekids.org.au/contact-us/our-people/b/alex-brown/
   img: /assets/img/team/alex-brown.png
 - name: Kaashifah Bruce
   desc: |
-    Program Manager <br>
-    Indigenous Genomics
+    Program Manager
   email: kaashifah.bruce@thekids.org.au
   img: /assets/img/team/kaashifah-bruce.png
 - name: Rose Senesi
@@ -18,6 +16,19 @@ general:
     Strategic Relationship and Engagement Manager
   email: rose.senesi@thekids.org.au
   img: /assets/img/team/rose-senesi.png
+- name: Jimmy Breen
+  desc: |
+    Chief Data Scientist
+  img: /assets/img/team/jimmy-breen.png
+  website: https://www.thekids.org.au/contact-us/our-people/b/jimmy-breen/
+  email: jimmy.breen@thekids.org.au
+  github: jimmybgammyknee
+- name: Sam Buckberry 
+  desc: | 
+    Head of Epigenetics
+  email: sam.buckberry@thekids.org.au
+  website: https://sambuckberry.me/
+  img: /assets/img/team/sam-buckberry.png
 - name: Maxine Gross
   desc: |
       Operations Manager <br>
@@ -25,34 +36,17 @@ general:
   email: maxine.gross@thekids.org.au
   img: /assets/img/team/maxine-gross.png
 bioinformatics:
-- name: Jimmy Breen
-  desc: |
-    Chief Data Scientist <br>
-    Bioinformatics, Genomics, Data Science
-  img: /assets/img/team/jimmy-breen.png
-  website: https://www.thekids.org.au/contact-us/our-people/b/jimmy-breen/
-  email: jimmy.breen@thekids.org.au
-  github: https://github.com/jimmybgammyknee
-- name: Sam Buckberry 
-  desc: | 
-    Head of Epigenetics <br>
-    Bioinformatics, Epigenetics, Data Science
-  email: sam.buckberry@thekids.org.au
-  website: https://sambuckberry.me/
-  img: /assets/img/team/sam-buckberry.png
 - name: Liza Kretzschmar
   desc: | 
-    Research Fellow <br>
-    Bioinformatics, Multi-Omics, Data Integration, Transcriptomics
+    Bioinformatics Research Fellow
   email: liza.kretzschmar@thekids.org.au
   img: /assets/img/team/liza-kretzschmar.png
 - name: Stevie Pederson
   desc: | 
-    Research Fellow <br>
-    Bioinformatics, Transcriptomics, Data Science
+    Bioinformatician
   email: stevie.pederson@thekids.org.au
   website: https://www.thekids.org.au/contact-us/our-people/p/stevie-pederson/
-  github: https://github.com/smped
+  github: smped
   img: /assets/img/team/stevie-pederson.png
 - name: Alastair Ludington
   desc: |
@@ -61,8 +55,7 @@ bioinformatics:
   img: /assets/img/team/default.png
 - name: Adam Heterick
   desc: |
-    Bioinformatics Officer <br>
-    Pharmacogenomics, Indigenous Data Sovereignty
+    Bioinformatics Officer
   email: Adam.Heterick@thekids.org.au
   img: /assets/img/team/adam-heterick.png
 - name: Jonathan Carroll
@@ -72,25 +65,23 @@ bioinformatics:
   website: https://jcarroll.com.au/
   github: jonocarroll
   mastodon: fosstodon.org/@jonocarroll
-  linkedin: carrolljonathan
+  linkedin: linkedin.com/in/carrolljonathan
   img: /assets/img/team/jonathan-carroll.png
 - name: Sam Godwin
   desc: |
-    Postdoctoral Researcher <br>
-    Bioinformatics, Genomics, Cardiovascular Disease
+    Postdoctoral Researcher
   email: Sam.Godwin@thekids.org.au
   img: /assets/img/team/sam-godwin.png
 epidemiology:
 - name: Natasha Howard
   desc: |
-    Principal Research Fellow <br>
-    Implementation Science, Public Health, Epidemiology
+    Principal Research Fellow
   email: natasha.howard@thekids.org.au
   img: /assets/img/team/natasha-howard.png
 - name: Katharine Brown
   desc: |
     Research Fellow <br>
-    Epidemiology, Public Health, Cardiovascular Disease
+    Indigenous Cardiovascular Research
   email: katharine.brown@thekids.org.au
   img: /assets/img/team/katharine-brown.png
 - name: Mary Brushe
@@ -103,8 +94,8 @@ epidemiology:
 external:
 - name: Bastien Llamas
   desc: | 
-    Associate Professor (Adelaide University) <br>
-    Bioinformatics, Genomics, Evolutionary Medicine
+    Associate Professor <br>
+    Adelaide University
   email: bastien.llamas@adelaide.edu.au
   img: /assets/img/team/bastien-llamas.png
   website: https://researchers.adelaide.edu.au/profile/bastien.llamas
@@ -121,41 +112,35 @@ external:
   img: /assets/img/team/azure-hermes.png
 - name: Boris Guennewig
   desc: |
-    Chief Technology Officer & Co-Founder, smrtr <br>
-    Principal Consultant, Pacific Analytics <br>
-    Head Bioinformatics & Statistics Research Group, University of Sydney
+    Founder & CEO <br>
+    Pacific Analytics
   email: boris.guennewig@sydney.edu.au
   img: /assets/img/team/boris-guennewig.png
 students:
 - name: Rebecca Simpson
   desc: |
-    PhD Candidate <br>
-    Bioinformatics, Genomics, Type 2 Diabetes
+    PhD Candidate
   email: rebecca.simpson@sahmri.com
   img: /assets/img/team/rebecca-simpson.png
 - name: Sarah Munns
   desc: |
-    PhD Candidate <br>
-    Bioinformatics, Genomics, Epigenetics
+    PhD Candidate
   email: sarah.munns@thekids.org.au
   img: /assets/img/team/sarah-munns.png
 - name: Holly Massacci
   desc: |
-    PhD Candidate <br>
-    Bioinformatics, Genomics, Visualisation
+    PhD Candidate
   img: /assets/img/team/holly-massacci.png
   website: https://linktr.ee/hollymassacci
   email: holly.massacci@thekids.org.au
 - name: Sehaj Dhariwal
   desc: |
-    PhD Candidate <br>
-    Bioinformatics, Genomics, Machine Learning
+    PhD Candidate
   email: sehaj.dhariwal@thekids.org.au
   img: /assets/img/team/sehaj-dhariwal.png  
 - name: Allison Foster
   desc: |
-    PhD Candidate <br>
-    Bioinformatics, Metabolomics, Lipidomics
+    PhD Candidate
   email: allison.foster@thekids.org.au
   img: /assets/img/team/allison-foster.png 
 network:
