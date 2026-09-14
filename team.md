@@ -1,6 +1,5 @@
 ---
-title: People
-subtitle: Meet the team at Black Ochre Data Labs
+title: Our Team
 default_profile_img: /assets/img/default.png
 layout: team
 ---
@@ -8,10 +7,13 @@ layout: team
 <html>
   <body>
 {% include list-circles.html items=site.data.people.general %}
-{% include list-circles.html items=site.data.people.bioinformatics %} 
+{% include list-circles.html items=site.data.people.bioinformatics %}
+{% include list-circles.html items=site.data.people.epidemiology %}
 {% include list-circles.html items=site.data.people.external %}
 {% include list-circles.html items=site.data.people.students %}
   <h1 class="center">Australian Alliance for Indigenous Genomics (ALIGN)</h1>
 {% include list-circles.html items=site.data.people.network %}
+  <h1 class="center">Former Group Members</h1>
+{% include list-circles.html items=site.data.people.former %}
   </body>
 </html>
