@@ -70,9 +70,9 @@ bioinformatics:
     Bioinformatics Engineer
   email: Jonathan.Carroll@thekids.org.au
   website: https://jcarroll.com.au/
-  github: https://github.com/jonocarroll
-  mastodon: https://fosstodon.org/@jonocarroll
-  linkedin: https://www.linkedin.com/in/carrolljonathan/
+  github: jonocarroll
+  mastodon: fosstodon.org/@jonocarroll
+  linkedin: carrolljonathan
   img: /assets/img/team/jonathan-carroll.png
 - name: Sam Godwin
   desc: |
