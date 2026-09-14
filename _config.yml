@@ -30,7 +30,7 @@ navbar-links:
     - The Kids Research Institute Australia: "https://www.thekids.org.au/"
     - Australian National University: "https://www.anu.edu.au/"
     - National Centre for Indigenous Genomics: "https://ncig.anu.edu.au/"
-    - ALIGN: "https://indigenousgenomics.com.au/"
+    - Australian Alliance for Indigenous Genomics: "https://indigenousgenomics.com.au/"
 
 ################
 # --- Logo --- #
@@ -55,7 +55,7 @@ title-img: /assets/img/fulllogo.png
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "holly.massacci@telethonkids.org.au"
+  email: "hollym@blackochrelabs.au"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: black-ochre-data-labs
